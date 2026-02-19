@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="MishnatYosefModelStoreContainer" CdmEntityContainer="MishnatYosefEntities">
+    <EntitySetMapping Name="Booking">
+      <EntityTypeMapping TypeName="MishnatYosefModel.Booking">
+        <MappingFragment StoreEntitySet="Booking">
+          <ScalarProperty Name="Code" ColumnName="Code" />
+          <ScalarProperty Name="CodeSale" ColumnName="CodeSale" />
+          <ScalarProperty Name="CodeClient" ColumnName="CodeClient" />
+          <ScalarProperty Name="FinalAmount" ColumnName="FinalAmount" />
+          <ScalarProperty Name="PaymentNumber" ColumnName="PaymentNumber" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Branch">
+      <EntityTypeMapping TypeName="MishnatYosefModel.Branch">
+        <MappingFragment StoreEntitySet="Branch">
+          <ScalarProperty Name="Code" ColumnName="Code" />
+          <ScalarProperty Name="Address" ColumnName="Address" />
+          <ScalarProperty Name="NumHouse" ColumnName="NumHouse" />
+          <ScalarProperty Name="City" ColumnName="City" />
+          <ScalarProperty Name="FromHour" ColumnName="FromHour" />
+          <ScalarProperty Name="StillHour" ColumnName="StillHour" />
+          <ScalarProperty Name="ManegerPhone" ColumnName="ManegerPhone" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Category">
+      <EntityTypeMapping TypeName="MishnatYosefModel.Category">
+        <MappingFragment StoreEntitySet="Category">
+          <ScalarProperty Name="Code" ColumnName="Code" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="City">
+      <EntityTypeMapping TypeName="MishnatYosefModel.City">
+        <MappingFragment StoreEntitySet="City">
+          <ScalarProperty Name="Code" ColumnName="Code" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Client">
+      <EntityTypeMapping TypeName="MishnatYosefModel.Client">
+        <MappingFragment StoreEntitySet="Client">
+          <ScalarProperty Name="ClientId" ColumnName="ClientId" />
+          <ScalarProperty Name="FName" ColumnName="FName" />
+          <ScalarProperty Name="LName" ColumnName="LName" />
+          <ScalarProperty Name="Phone" ColumnName="Phone" />
+          <ScalarProperty Name="City" ColumnName="City" />
+          <ScalarProperty Name="CodeBranch" ColumnName="CodeBranch" />
+          <ScalarProperty Name="Adrees" ColumnName="Adrees" />
+          <ScalarProperty Name="NumHouse" ColumnName="NumHouse" />
+          <ScalarProperty Name="SumAcquittal" ColumnName="SumAcquittal" />
+          <ScalarProperty Name="NumCreditCard" ColumnName="NumCreditCard" />
+          <ScalarProperty Name="C3_Numbers" ColumnName="3 Numbers" />
+          <ScalarProperty Name="Force" ColumnName="Force" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Product">
+      <EntityTypeMapping TypeName="MishnatYosefModel.Product">
+        <MappingFragment StoreEntitySet="Product">
+          <ScalarProperty Name="Code" ColumnName="Code" />
+          <ScalarProperty Name="NameProduct" ColumnName="NameProduct" />
+          <ScalarProperty Name="CodeTrand" ColumnName="CodeTrand" />
+          <ScalarProperty Name="CodeCategory" ColumnName="CodeCategory" />
+          <ScalarProperty Name="Picture" ColumnName="Picture" />
+          <ScalarProperty Name="Price" ColumnName="Price" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ProductInBooking">
+      <EntityTypeMapping TypeName="MishnatYosefModel.ProductInBooking">
+        <MappingFragment StoreEntitySet="ProductInBooking">
+          <ScalarProperty Name="Code" ColumnName="Code" />
+          <ScalarProperty Name="CodeBooking" ColumnName="CodeBooking" />
+          <ScalarProperty Name="CodeProductInSale" ColumnName="CodeProductInSale" />
+          <ScalarProperty Name="Amount" ColumnName="Amount" />
+          <ScalarProperty Name="C_Betaken_" ColumnName=" Betaken?" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ProductInSale">
+      <EntityTypeMapping TypeName="MishnatYosefModel.ProductInSale">
+        <MappingFragment StoreEntitySet="ProductInSale">
+          <ScalarProperty Name="Code" ColumnName="Code" />
+          <ScalarProperty Name="CodeProduct" ColumnName="CodeProduct" />
+          <ScalarProperty Name="CodeSale" ColumnName="CodeSale" />
+          <ScalarProperty Name="AmountInStoke" ColumnName="AmountInStoke" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ProductTrand">
+      <EntityTypeMapping TypeName="MishnatYosefModel.ProductTrand">
+        <MappingFragment StoreEntitySet="ProductTrand">
+          <ScalarProperty Name="Code" ColumnName="Code" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Sale">
+      <EntityTypeMapping TypeName="MishnatYosefModel.Sale">
+        <MappingFragment StoreEntitySet="Sale">
+          <ScalarProperty Name="Code" ColumnName="Code" />
+          <ScalarProperty Name="NameSale" ColumnName="NameSale" />
+          <ScalarProperty Name="Note" ColumnName="Note" />
+          <ScalarProperty Name="DateSale" ColumnName="DateSale" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

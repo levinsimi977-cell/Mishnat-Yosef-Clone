@@ -1,0 +1,798 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MishnatYosef\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0811AE68-E7C1-44B3-924D-4EBEB4EB2DD8}|MishnatYosef.csproj|e:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\mishnatyosef\\gui\\privatedetailscpage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0811AE68-E7C1-44B3-924D-4EBEB4EB2DD8}|MishnatYosef.csproj|solutionrelative:gui\\privatedetailscpage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0811AE68-E7C1-44B3-924D-4EBEB4EB2DD8}|MishnatYosef.csproj|E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MishnatYosef\\gui\\privatedetailscpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0811AE68-E7C1-44B3-924D-4EBEB4EB2DD8}|MishnatYosef.csproj|solutionrelative:gui\\privatedetailscpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0811AE68-E7C1-44B3-924D-4EBEB4EB2DD8}|MishnatYosef.csproj|E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MishnatYosef\\gui\\creditcardcpage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0811AE68-E7C1-44B3-924D-4EBEB4EB2DD8}|MishnatYosef.csproj|solutionrelative:gui\\creditcardcpage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0811AE68-E7C1-44B3-924D-4EBEB4EB2DD8}|MishnatYosef.csproj|E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MishnatYosef\\gui\\creditcardcpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0811AE68-E7C1-44B3-924D-4EBEB4EB2DD8}|MishnatYosef.csproj|solutionrelative:gui\\creditcardcpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0811AE68-E7C1-44B3-924D-4EBEB4EB2DD8}|MishnatYosef.csproj|E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MishnatYosef\\gui\\window1.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0811AE68-E7C1-44B3-924D-4EBEB4EB2DD8}|MishnatYosef.csproj|solutionrelative:gui\\window1.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0811AE68-E7C1-44B3-924D-4EBEB4EB2DD8}|MishnatYosef.csproj|E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MishnatYosef\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0811AE68-E7C1-44B3-924D-4EBEB4EB2DD8}|MishnatYosef.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0811AE68-E7C1-44B3-924D-4EBEB4EB2DD8}|MishnatYosef.csproj|E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MishnatYosef\\mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0811AE68-E7C1-44B3-924D-4EBEB4EB2DD8}|MishnatYosef.csproj|solutionrelative:mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0811AE68-E7C1-44B3-924D-4EBEB4EB2DD8}|MishnatYosef.csproj|E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MishnatYosef\\gui\\window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0811AE68-E7C1-44B3-924D-4EBEB4EB2DD8}|MishnatYosef.csproj|solutionrelative:gui\\window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0811AE68-E7C1-44B3-924D-4EBEB4EB2DD8}|MishnatYosef.csproj|E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MishnatYosef\\bll\\agerangerule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0811AE68-E7C1-44B3-924D-4EBEB4EB2DD8}|MishnatYosef.csproj|solutionrelative:bll\\agerangerule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0811AE68-E7C1-44B3-924D-4EBEB4EB2DD8}|MishnatYosef.csproj|E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MishnatYosef\\gui\\orderproductc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0811AE68-E7C1-44B3-924D-4EBEB4EB2DD8}|MishnatYosef.csproj|solutionrelative:gui\\orderproductc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0811AE68-E7C1-44B3-924D-4EBEB4EB2DD8}|MishnatYosef.csproj|E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MishnatYosef\\gui\\addproduct.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0811AE68-E7C1-44B3-924D-4EBEB4EB2DD8}|MishnatYosef.csproj|solutionrelative:gui\\addproduct.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0811AE68-E7C1-44B3-924D-4EBEB4EB2DD8}|MishnatYosef.csproj|E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MishnatYosef\\gui\\productall.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0811AE68-E7C1-44B3-924D-4EBEB4EB2DD8}|MishnatYosef.csproj|solutionrelative:gui\\productall.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0811AE68-E7C1-44B3-924D-4EBEB4EB2DD8}|MishnatYosef.csproj|E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MishnatYosef\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0811AE68-E7C1-44B3-924D-4EBEB4EB2DD8}|MishnatYosef.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0811AE68-E7C1-44B3-924D-4EBEB4EB2DD8}|MishnatYosef.csproj|E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MishnatYosef\\gui\\productall.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0811AE68-E7C1-44B3-924D-4EBEB4EB2DD8}|MishnatYosef.csproj|solutionrelative:gui\\productall.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0811AE68-E7C1-44B3-924D-4EBEB4EB2DD8}|MishnatYosef.csproj|E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MishnatYosef\\gui\\usproduct.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0811AE68-E7C1-44B3-924D-4EBEB4EB2DD8}|MishnatYosef.csproj|solutionrelative:gui\\usproduct.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0811AE68-E7C1-44B3-924D-4EBEB4EB2DD8}|MishnatYosef.csproj|E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MishnatYosef\\gui\\usproduct.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0811AE68-E7C1-44B3-924D-4EBEB4EB2DD8}|MishnatYosef.csproj|solutionrelative:gui\\usproduct.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0811AE68-E7C1-44B3-924D-4EBEB4EB2DD8}|MishnatYosef.csproj|E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MishnatYosef\\gui\\addbranch.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0811AE68-E7C1-44B3-924D-4EBEB4EB2DD8}|MishnatYosef.csproj|solutionrelative:gui\\addbranch.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/D__\u05D4\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8_\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8_MISHNATYOSEF_BIN_DEBUG_MISHNATYOSEF.MDF/True/SqlTable/dbo.ProductInSale.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0811AE68-E7C1-44B3-924D-4EBEB4EB2DD8}|MishnatYosef.csproj|E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MishnatYosef\\gui\\updateproducts.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0811AE68-E7C1-44B3-924D-4EBEB4EB2DD8}|MishnatYosef.csproj|solutionrelative:gui\\updateproducts.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0811AE68-E7C1-44B3-924D-4EBEB4EB2DD8}|MishnatYosef.csproj|E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MishnatYosef\\gui\\updateproducts.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0811AE68-E7C1-44B3-924D-4EBEB4EB2DD8}|MishnatYosef.csproj|solutionrelative:gui\\updateproducts.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0811AE68-E7C1-44B3-924D-4EBEB4EB2DD8}|MishnatYosef.csproj|E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MishnatYosef\\gui\\moreprtothissale.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0811AE68-E7C1-44B3-924D-4EBEB4EB2DD8}|MishnatYosef.csproj|solutionrelative:gui\\moreprtothissale.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0811AE68-E7C1-44B3-924D-4EBEB4EB2DD8}|MishnatYosef.csproj|E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MishnatYosef\\gui\\addtrand.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0811AE68-E7C1-44B3-924D-4EBEB4EB2DD8}|MishnatYosef.csproj|solutionrelative:gui\\addtrand.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0811AE68-E7C1-44B3-924D-4EBEB4EB2DD8}|MishnatYosef.csproj|E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MishnatYosef\\gui\\addproduct.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0811AE68-E7C1-44B3-924D-4EBEB4EB2DD8}|MishnatYosef.csproj|solutionrelative:gui\\addproduct.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0811AE68-E7C1-44B3-924D-4EBEB4EB2DD8}|MishnatYosef.csproj|E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MishnatYosef\\gui\\addexaitedpm.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0811AE68-E7C1-44B3-924D-4EBEB4EB2DD8}|MishnatYosef.csproj|solutionrelative:gui\\addexaitedpm.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0811AE68-E7C1-44B3-924D-4EBEB4EB2DD8}|MishnatYosef.csproj|E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MishnatYosef\\gui\\addcity.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0811AE68-E7C1-44B3-924D-4EBEB4EB2DD8}|MishnatYosef.csproj|solutionrelative:gui\\addcity.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0811AE68-E7C1-44B3-924D-4EBEB4EB2DD8}|MishnatYosef.csproj|E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MishnatYosef\\gui\\addcategory.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0811AE68-E7C1-44B3-924D-4EBEB4EB2DD8}|MishnatYosef.csproj|solutionrelative:gui\\addcategory.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0811AE68-E7C1-44B3-924D-4EBEB4EB2DD8}|MishnatYosef.csproj|E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MishnatYosef\\gui\\addbranch.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0811AE68-E7C1-44B3-924D-4EBEB4EB2DD8}|MishnatYosef.csproj|solutionrelative:gui\\addbranch.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0811AE68-E7C1-44B3-924D-4EBEB4EB2DD8}|MishnatYosef.csproj|E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MishnatYosef\\gui\\moreprtothissale.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0811AE68-E7C1-44B3-924D-4EBEB4EB2DD8}|MishnatYosef.csproj|solutionrelative:gui\\moreprtothissale.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0811AE68-E7C1-44B3-924D-4EBEB4EB2DD8}|MishnatYosef.csproj|E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MishnatYosef\\gui\\addexaitedpm.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0811AE68-E7C1-44B3-924D-4EBEB4EB2DD8}|MishnatYosef.csproj|solutionrelative:gui\\addexaitedpm.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0811AE68-E7C1-44B3-924D-4EBEB4EB2DD8}|MishnatYosef.csproj|E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MishnatYosef\\gui\\addsale.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0811AE68-E7C1-44B3-924D-4EBEB4EB2DD8}|MishnatYosef.csproj|solutionrelative:gui\\addsale.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0811AE68-E7C1-44B3-924D-4EBEB4EB2DD8}|MishnatYosef.csproj|E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MishnatYosef\\gui\\addsale.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0811AE68-E7C1-44B3-924D-4EBEB4EB2DD8}|MishnatYosef.csproj|solutionrelative:gui\\addsale.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0811AE68-E7C1-44B3-924D-4EBEB4EB2DD8}|MishnatYosef.csproj|E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MishnatYosef\\gui\\allsale.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0811AE68-E7C1-44B3-924D-4EBEB4EB2DD8}|MishnatYosef.csproj|solutionrelative:gui\\allsale.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0811AE68-E7C1-44B3-924D-4EBEB4EB2DD8}|MishnatYosef.csproj|E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MishnatYosef\\gui\\orderproductc.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0811AE68-E7C1-44B3-924D-4EBEB4EB2DD8}|MishnatYosef.csproj|solutionrelative:gui\\orderproductc.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0811AE68-E7C1-44B3-924D-4EBEB4EB2DD8}|MishnatYosef.csproj|E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MishnatYosef\\gui\\addcity.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0811AE68-E7C1-44B3-924D-4EBEB4EB2DD8}|MishnatYosef.csproj|solutionrelative:gui\\addcity.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0811AE68-E7C1-44B3-924D-4EBEB4EB2DD8}|MishnatYosef.csproj|E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MishnatYosef\\gui\\dictionary1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0811AE68-E7C1-44B3-924D-4EBEB4EB2DD8}|MishnatYosef.csproj|solutionrelative:gui\\dictionary1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0811AE68-E7C1-44B3-924D-4EBEB4EB2DD8}|MishnatYosef.csproj|E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MishnatYosef\\gui\\lessproduct.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0811AE68-E7C1-44B3-924D-4EBEB4EB2DD8}|MishnatYosef.csproj|solutionrelative:gui\\lessproduct.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0811AE68-E7C1-44B3-924D-4EBEB4EB2DD8}|MishnatYosef.csproj|E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MishnatYosef\\gui\\manegerpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0811AE68-E7C1-44B3-924D-4EBEB4EB2DD8}|MishnatYosef.csproj|solutionrelative:gui\\manegerpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0811AE68-E7C1-44B3-924D-4EBEB4EB2DD8}|MishnatYosef.csproj|E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MishnatYosef\\gui\\seebooking.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0811AE68-E7C1-44B3-924D-4EBEB4EB2DD8}|MishnatYosef.csproj|solutionrelative:gui\\seebooking.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0811AE68-E7C1-44B3-924D-4EBEB4EB2DD8}|MishnatYosef.csproj|E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MishnatYosef\\gui\\addtrand.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0811AE68-E7C1-44B3-924D-4EBEB4EB2DD8}|MishnatYosef.csproj|solutionrelative:gui\\addtrand.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0811AE68-E7C1-44B3-924D-4EBEB4EB2DD8}|MishnatYosef.csproj|E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MishnatYosef\\bll\\producttrandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0811AE68-E7C1-44B3-924D-4EBEB4EB2DD8}|MishnatYosef.csproj|solutionrelative:bll\\producttrandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0811AE68-E7C1-44B3-924D-4EBEB4EB2DD8}|MishnatYosef.csproj|E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MishnatYosef\\bll\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0811AE68-E7C1-44B3-924D-4EBEB4EB2DD8}|MishnatYosef.csproj|solutionrelative:bll\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0811AE68-E7C1-44B3-924D-4EBEB4EB2DD8}|MishnatYosef.csproj|E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MishnatYosef\\gui\\addcategory.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0811AE68-E7C1-44B3-924D-4EBEB4EB2DD8}|MishnatYosef.csproj|solutionrelative:gui\\addcategory.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0811AE68-E7C1-44B3-924D-4EBEB4EB2DD8}|MishnatYosef.csproj|E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MishnatYosef\\model\\productinsale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0811AE68-E7C1-44B3-924D-4EBEB4EB2DD8}|MishnatYosef.csproj|solutionrelative:model\\productinsale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0811AE68-E7C1-44B3-924D-4EBEB4EB2DD8}|MishnatYosef.csproj|E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MishnatYosef\\gui\\clientpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0811AE68-E7C1-44B3-924D-4EBEB4EB2DD8}|MishnatYosef.csproj|solutionrelative:gui\\clientpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0811AE68-E7C1-44B3-924D-4EBEB4EB2DD8}|MishnatYosef.csproj|E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MishnatYosef\\gui\\allsale.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0811AE68-E7C1-44B3-924D-4EBEB4EB2DD8}|MishnatYosef.csproj|solutionrelative:gui\\allsale.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0811AE68-E7C1-44B3-924D-4EBEB4EB2DD8}|MishnatYosef.csproj|E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MishnatYosef\\gui\\manegerpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0811AE68-E7C1-44B3-924D-4EBEB4EB2DD8}|MishnatYosef.csproj|solutionrelative:gui\\manegerpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0811AE68-E7C1-44B3-924D-4EBEB4EB2DD8}|MishnatYosef.csproj|E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MishnatYosef\\gui\\clientpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0811AE68-E7C1-44B3-924D-4EBEB4EB2DD8}|MishnatYosef.csproj|solutionrelative:gui\\clientpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0811AE68-E7C1-44B3-924D-4EBEB4EB2DD8}|MishnatYosef.csproj|E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MishnatYosef\\gui\\bookingcpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0811AE68-E7C1-44B3-924D-4EBEB4EB2DD8}|MishnatYosef.csproj|solutionrelative:gui\\bookingcpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0811AE68-E7C1-44B3-924D-4EBEB4EB2DD8}|MishnatYosef.csproj|E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MishnatYosef\\gui\\bookingcpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0811AE68-E7C1-44B3-924D-4EBEB4EB2DD8}|MishnatYosef.csproj|solutionrelative:gui\\bookingcpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0811AE68-E7C1-44B3-924D-4EBEB4EB2DD8}|MishnatYosef.csproj|E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MishnatYosef\\bll\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0811AE68-E7C1-44B3-924D-4EBEB4EB2DD8}|MishnatYosef.csproj|solutionrelative:bll\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PrivateDetailsCPage.xaml.cs",
+              "DocumentMoniker": "E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MishnatYosef\\GUI\\PrivateDetailsCPage.xaml.cs",
+              "RelativeDocumentMoniker": "GUI\\PrivateDetailsCPage.xaml.cs",
+              "ToolTip": "E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MishnatYosef\\GUI\\PrivateDetailsCPage.xaml.cs",
+              "RelativeToolTip": "GUI\\PrivateDetailsCPage.xaml.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAkwEUAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T12:42:05.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreditCardCPage.xaml.cs",
+              "DocumentMoniker": "E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MishnatYosef\\GUI\\CreditCardCPage.xaml.cs",
+              "RelativeDocumentMoniker": "GUI\\CreditCardCPage.xaml.cs",
+              "ToolTip": "E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MishnatYosef\\GUI\\CreditCardCPage.xaml.cs",
+              "RelativeToolTip": "GUI\\CreditCardCPage.xaml.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAAC4AAAAjAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHiSURBVDhPY2SAgpb1Vww4WNh2SguwM7EyMQYL/5I95ujI\u002BAcqjRMwMsTvNAAxfPWF1cwUeKfvvvqBz1GNb7\u002BW4Ocp25ZOffTt2zewQikpKYaAgACQgTccHR3hBrMw/GUsADGO3vok9P7LH66bL76xKIuy2hiJ/pdTVFT8DjLg9\u002B/fYMVv3rz5JCkpWXHs2LELVlZW30FijAwxO8VAjHIvaR0FEc6Vi469FEm3k2CwVeFk\u002BPvjM8O/f/8YXrx4wbBp0yaGHz9\u002B/PPz87vNw8OTCDT0NMglTAxL3F\u002BBsAQf67s/f/7\u002Bq/CUZbBV42HgYmVg4ObmZuDl5WXg4uJi\u002BP//P8O7d\u002B\u002BYgAapPn/\u002BvANopwbIYiYQAQIKrM8YlDleMehJsTBwMv8D2wwDrKysDGJiYgxA5zNwcHAwAb3At2HDBhaQHDNYBRBICAtIvH7\u002BJFZPR4ubhQUuDAZsbGwMMjIyDFpaWgxKSkoMt27devH06dON165dewF3wbNnz8D4zx/MmIO5QFpaGuwKEB8G4AaQC0YNQDIAFLKMjIzgVAeMIpwYJA\u002BKKVhMgBMDCAATyHcmJqYrW7duFQYZhAuAEtjXr19vgdSD\u002BHCV9fX1LMAkKgDMPAS9xc7O/geYsD41Njb\u002BAQB9hMCogeGQ7QAAAABJRU5ErkJggg==",
+              "WhenOpened": "2026-02-19T12:42:05.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Window1.xaml.cs",
+              "DocumentMoniker": "E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MishnatYosef\\GUI\\Window1.xaml.cs",
+              "RelativeDocumentMoniker": "GUI\\Window1.xaml.cs",
+              "ToolTip": "E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MishnatYosef\\GUI\\Window1.xaml.cs",
+              "RelativeToolTip": "GUI\\Window1.xaml.cs",
+              "ViewState": "AQIAAFsAAAAAAAAAAAAcwGwAAAAcAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHiSURBVDhPY2SAgpb1Vww4WNh2SguwM7EyMQYL/5I95ujI\u002BAcqjRMwMsTvNAAxfPWF1cwUeKfvvvqBz1GNb7\u002BW4Ocp25ZOffTt2zewQikpKYaAgACQgTccHR3hBrMw/GUsADGO3vok9P7LH66bL76xKIuy2hiJ/pdTVFT8DjLg9\u002B/fYMVv3rz5JCkpWXHs2LELVlZW30FijAwxO8VAjHIvaR0FEc6Vi469FEm3k2CwVeFk\u002BPvjM8O/f/8YXrx4wbBp0yaGHz9\u002B/PPz87vNw8OTCDT0NMglTAxL3F\u002BBsAQf67s/f/7\u002Bq/CUZbBV42HgYmVg4ObmZuDl5WXg4uJi\u002BP//P8O7d\u002B\u002BYgAapPn/\u002BvANopwbIYiYQAQIKrM8YlDleMehJsTBwMv8D2wwDrKysDGJiYgxA5zNwcHAwAb3At2HDBhaQHDNYBRBICAtIvH7\u002BJFZPR4ubhQUuDAZsbGwMMjIyDFpaWgxKSkoMt27devH06dON165dewF3wbNnz8D4zx/MmIO5QFpaGuwKEB8G4AaQC0YNQDIAFLKMjIzgVAeMIpwYJA\u002BKKVhMgBMDCAATyHcmJqYrW7duFQYZhAuAEtjXr19vgdSD\u002BHCV9fX1LMAkKgDMPAS9xc7O/geYsD41Njb\u002BAQB9hMCogeGQ7QAAAABJRU5ErkJggg==",
+              "WhenOpened": "2026-02-19T12:42:05.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PrivateDetailsCPage.xaml",
+              "DocumentMoniker": "E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MishnatYosef\\GUI\\PrivateDetailsCPage.xaml",
+              "RelativeDocumentMoniker": "GUI\\PrivateDetailsCPage.xaml",
+              "ToolTip": "E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MishnatYosef\\GUI\\PrivateDetailsCPage.xaml",
+              "RelativeToolTip": "GUI\\PrivateDetailsCPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-19T12:42:05.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "App.xaml",
+              "DocumentMoniker": "E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MishnatYosef\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MishnatYosef\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-19T12:42:05.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreditCardCPage.xaml",
+              "DocumentMoniker": "E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MishnatYosef\\GUI\\CreditCardCPage.xaml",
+              "RelativeDocumentMoniker": "GUI\\CreditCardCPage.xaml",
+              "ToolTip": "E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MishnatYosef\\GUI\\CreditCardCPage.xaml",
+              "RelativeToolTip": "GUI\\CreditCardCPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-19T12:42:05.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MishnatYosef\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MishnatYosef\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-19T12:42:05.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AgeRangeRule.cs",
+              "DocumentMoniker": "E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MishnatYosef\\BLL\\AgeRangeRule.cs",
+              "RelativeDocumentMoniker": "BLL\\AgeRangeRule.cs",
+              "ToolTip": "E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MishnatYosef\\BLL\\AgeRangeRule.cs",
+              "RelativeToolTip": "BLL\\AgeRangeRule.cs",
+              "ViewState": "AQIAAKEAAAAAAAAAAAAAAL8AAAA8AAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJUSURBVDhP3ZC/TxpxGMbf73GAeIhXKz9SbWMQ\u002B8NcMMWgQtpGBwZjhybWGhs2p66t1SYdutXO7aTtaOLQgYmBkgh0aqjBhGgjlCiHSOU8hEPkDg7uete0Y/\u002BA9jO8eYfnGT4P/Pto1BORI/jC3AJpnDB2NZ1NwnrfSow8GtH7Xf5GNBpFnjnPJeY2Y/A/9Ytrr9d6Tm6ddJhdZpGO0RImyzKG7WNjHM8FGlgjSXQRSRNuSpKI/Fh0FnsP2cMhXuQDOkkXoI/osVK99FloCYE8nh\u002BDV4Dhob0QeVQ\u002BWtnOb7ttRpvWO\u002B7d1\u002BP6Vl2ss0OXhwxNsflsK7NFKRnIsJllwGAgX81bZUl\u002B7ADHLh5OhfFas3YNRzhM35z\u002BqkGaFzLIVVZgeXunvaj8G\u002B6r7nspJgVaTLsxS83eLXCF0/PG\u002Bac\u002B6Kvj4YMw2DptMHpl9EAQhUUf5UshhCR1G1WvwBaYbkO3qNPokMVoYXqJXkmv1YsYwioxiEmYGmxLbQAErUw1U/pTVuE4jqy1au83E5uDaTZtj2QiH5aCS2SaSTva0H4\u002BbBomca/VCwISIFvJdpTrZSq0GzpTy0yF4XfKO3S/tn/Fd923wl6wSNFbWxxfXF7/ss5luew7c9VcxadcU63iaTEXz8XvtOX22\u002BxZVlRGhAvxIp34kXgy6ZmM585zy2QHCTODMzRloWjlF4WGkIu9jLWQ6hncDU4cl4/fRL5HbigLg\u002BIMAz0DeybZNL86v3r6y\u002BcvYKozQRFxsod8ABI4K/WKkxd4pyALD3XfdKXfuf8XgJ/U5B69phRCXgAAAABJRU5ErkJggg==",
+              "WhenOpened": "2026-02-19T12:42:05.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductAll.xaml.cs",
+              "DocumentMoniker": "E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MishnatYosef\\GUI\\ProductAll.xaml.cs",
+              "RelativeDocumentMoniker": "GUI\\ProductAll.xaml.cs",
+              "ToolTip": "E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MishnatYosef\\GUI\\ProductAll.xaml.cs",
+              "RelativeToolTip": "GUI\\ProductAll.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHiSURBVDhPY2SAgpb1Vww4WNh2SguwM7EyMQYL/5I95ujI\u002BAcqjRMwMsTvNAAxfPWF1cwUeKfvvvqBz1GNb7\u002BW4Ocp25ZOffTt2zewQikpKYaAgACQgTccHR3hBrMw/GUsADGO3vok9P7LH66bL76xKIuy2hiJ/pdTVFT8DjLg9\u002B/fYMVv3rz5JCkpWXHs2LELVlZW30FijAwxO8VAjHIvaR0FEc6Vi469FEm3k2CwVeFk\u002BPvjM8O/f/8YXrx4wbBp0yaGHz9\u002B/PPz87vNw8OTCDT0NMglTAxL3F\u002BBsAQf67s/f/7\u002Bq/CUZbBV42HgYmVg4ObmZuDl5WXg4uJi\u002BP//P8O7d\u002B\u002BYgAapPn/\u002BvANopwbIYiYQAQIKrM8YlDleMehJsTBwMv8D2wwDrKysDGJiYgxA5zNwcHAwAb3At2HDBhaQHDNYBRBICAtIvH7\u002BJFZPR4ubhQUuDAZsbGwMMjIyDFpaWgxKSkoMt27devH06dON165dewF3wbNnz8D4zx/MmIO5QFpaGuwKEB8G4AaQC0YNQDIAFLKMjIzgVAeMIpwYJA\u002BKKVhMgBMDCAATyHcmJqYrW7duFQYZhAuAEtjXr19vgdSD\u002BHCV9fX1LMAkKgDMPAS9xc7O/geYsD41Njb\u002BAQB9hMCogeGQ7QAAAABJRU5ErkJggg==",
+              "WhenOpened": "2026-02-19T12:42:05.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductAll.xaml",
+              "DocumentMoniker": "E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MishnatYosef\\GUI\\ProductAll.xaml",
+              "RelativeDocumentMoniker": "GUI\\ProductAll.xaml",
+              "ToolTip": "E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MishnatYosef\\GUI\\ProductAll.xaml",
+              "RelativeToolTip": "GUI\\ProductAll.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-19T12:42:05.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MishnatYosef\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MishnatYosef\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAAAEYAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T12:42:05.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Window1.xaml",
+              "DocumentMoniker": "E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MishnatYosef\\GUI\\Window1.xaml",
+              "RelativeDocumentMoniker": "GUI\\Window1.xaml",
+              "ToolTip": "E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MishnatYosef\\GUI\\Window1.xaml",
+              "RelativeToolTip": "GUI\\Window1.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-19T12:42:05.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderProductC.xaml",
+              "DocumentMoniker": "E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MishnatYosef\\GUI\\OrderProductC.xaml",
+              "RelativeDocumentMoniker": "GUI\\OrderProductC.xaml",
+              "ToolTip": "E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MishnatYosef\\GUI\\OrderProductC.xaml",
+              "RelativeToolTip": "GUI\\OrderProductC.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-19T12:42:05.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AddProduct.xaml",
+              "DocumentMoniker": "E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MishnatYosef\\GUI\\AddProduct.xaml",
+              "RelativeDocumentMoniker": "GUI\\AddProduct.xaml",
+              "ToolTip": "E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MishnatYosef\\GUI\\AddProduct.xaml",
+              "RelativeToolTip": "GUI\\AddProduct.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-19T12:42:05.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "USProduct.xaml.cs",
+              "DocumentMoniker": "E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MishnatYosef\\GUI\\USProduct.xaml.cs",
+              "RelativeDocumentMoniker": "GUI\\USProduct.xaml.cs",
+              "ToolTip": "E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MishnatYosef\\GUI\\USProduct.xaml.cs",
+              "RelativeToolTip": "GUI\\USProduct.xaml.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJPSURBVDhPzVNLj9JQFL59XEpbpEAdTIhQnKmzGDZKojHRibAhMWz8A26MKzZuWGtcq3\u002BAtQtnpRtidGKMLEwmIURJXEAij\u002BERYujwkFcLbT23ccgYZePKLz296e253/nO\u002BVoKPf7A3g9jXg0EbnOYee7hWcwxzCN\u002Bbrx9//rZsFKp2AiQSCScSCaTJjw6ewQUund4S\u002BIZbn/Xc1XdEh7W\u002B7p35zx7eIkfv2t9ftMcaZpFEv1\u002Bvx2PxxeCIHxNp9NjiqIIEWKB65q\u002BtHCjv1Qxrbvr/ZkY8Qn7Pg\u002Bj4Gh0OJVlezqdIl3XLU3Thl6v92WhUDiybfs7IWERs3p1we92p/akG7LIpkxkBmIXz23FIgHZpUj20jBQs9lEpVLJrlarBigJQ\u002BGn\u002BXz\u002BI6xDBt19MX6wN5pFA2xQ5KjUzR2v/0pEpIGM5jkXzfM8DQpoIGF6vR4GFTLDMC6McSOTyXRZ9ISyrh8cWEvDZzGYRZflbeTjEKLJnCgKLgqJoohCoRBpmQLprk6n42u3226WhQbIbjgcxj9O\u002BtHFZHBnd1uBhlzk3BpQDUmS5JDIMBNQ0QQ1n4rFYoMmCa1WC/r8htrHDWQYOpi0dslRAG04h1VVRYqiOIpO4RCcwrIcx/4AIaFpeh1n5f1G8C/4DwnIHEzTdNZNAVb\u002Byj5DAMOx4MWi2\u002B3O6/X6vFar/TXgG5hPJhMDcp2Js\u002BQWi8VMsFKDykflcvkYfN/Y2mq1MgeDwRcoeBIMBm3HD2CjstmsMBqNghzHYSdzA\u002BCnIsuMEORyuflPg3Qb5hiLXHkAAAAASUVORK5CYII=",
+              "WhenOpened": "2026-02-19T12:42:05.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AddExaitedPM.xaml",
+              "DocumentMoniker": "E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MishnatYosef\\GUI\\AddExaitedPM.xaml",
+              "RelativeDocumentMoniker": "GUI\\AddExaitedPM.xaml",
+              "ToolTip": "E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MishnatYosef\\GUI\\AddExaitedPM.xaml",
+              "RelativeToolTip": "GUI\\AddExaitedPM.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-19T12:42:05.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "LessProduct.xaml",
+              "DocumentMoniker": "E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MishnatYosef\\GUI\\LessProduct.xaml",
+              "RelativeDocumentMoniker": "GUI\\LessProduct.xaml",
+              "ToolTip": "E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MishnatYosef\\GUI\\LessProduct.xaml",
+              "RelativeToolTip": "GUI\\LessProduct.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-19T12:42:05.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "AllSale.xaml.cs",
+              "DocumentMoniker": "E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MishnatYosef\\GUI\\AllSale.xaml.cs",
+              "RelativeDocumentMoniker": "GUI\\AllSale.xaml.cs",
+              "ToolTip": "E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MishnatYosef\\GUI\\AllSale.xaml.cs",
+              "RelativeToolTip": "GUI\\AllSale.xaml.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAB8AAAAMAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJ3SURBVDhPzVPBbtNAEJ31emPXNk4cHNImhiZtStpEtKVUIAQnjlz4gKpC4sChF/IHVT\u002Bjh34AV27cyBUpl0o0qkRVKtJUhDpR4qRybCfLbKAFVZw48aSx5dHO25n3xgRev9M21m8liwnzmarQiqKQmELJrhSE708/vm3WarVxJpOBYrHIHceBg4OD4c7Ozhh\u002BgULp1aPeBb8jEVKORrB\u002B9M23hsMQWOROcb\u002Bdiht6XlGUufF4nFdVdSaXywWVSiVEsnG1WuUU7m0\u002BUWTJNmI0x2RSPusOk9M3SCJngZPUYNE09BVZlu\u002BPRqPlKIruWpbFCSFeqVS62Nvbiyg82Bwuplh3PR830iZb5cBvLjtavJwxpm\u002BnrXzKtuc45/Ou6xY6nc68rutpSZLO\u002B/1\u002Ba2lpqU/h4RtvY4WGeTuWtqakx6uOnipnNTqdUGVdVRi2zwaDAWu1WiJULEwECCRpZrPZMwq1Xf7yeVVl1J/T4OLp/Ew8hfNICiNEkshEKDwPYRgSSimJxWLi\u002B9TzvE\u002B\u002B7x9LAARc94R/P67zzulnkKMBUDLCLJ8U402QTCZhYWEB1tbWCLpBcAza6/Xo4eEhQQKAer0OX78cwVnjBMLAB86vXJoQYAFgu1AoFGB2dhZM0xTdQLPZhAmBAKoMaBUW480i/oAgQSeAMQZiBFF8iSuCf8V/RoDzc9w2jpYJq/j1wLx4C62uRJLFA4XhmAywuIvL4qK/TIh2HeICXCS/2\u002B16eDbAf4NPNmVra8tA9mVMvECbHHyj0L\u002BVvoRwCs8F7XZ7H\u002BODbdv7E4Lt7W250WiY2EnaMIwp7ObnCv4FOIJYkp6maeeqqno/AArZJ/0PQoR0AAAAAElFTkSuQmCC",
+              "WhenOpened": "2026-02-19T12:42:05.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "USProduct.xaml",
+              "DocumentMoniker": "E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MishnatYosef\\GUI\\USProduct.xaml",
+              "RelativeDocumentMoniker": "GUI\\USProduct.xaml",
+              "ToolTip": "E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MishnatYosef\\GUI\\USProduct.xaml",
+              "RelativeToolTip": "GUI\\USProduct.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-19T12:42:05.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UpDateProducts.xaml.cs",
+              "DocumentMoniker": "E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MishnatYosef\\GUI\\UpDateProducts.xaml.cs",
+              "RelativeDocumentMoniker": "GUI\\UpDateProducts.xaml.cs",
+              "ToolTip": "E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MishnatYosef\\GUI\\UpDateProducts.xaml.cs",
+              "RelativeToolTip": "GUI\\UpDateProducts.xaml.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAAAEUAAAAkAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJ3SURBVDhPzVPBbtNAEJ31emPXNk4cHNImhiZtStpEtKVUIAQnjlz4gKpC4sChF/IHVT\u002Bjh34AV27cyBUpl0o0qkRVKtJUhDpR4qRybCfLbKAFVZw48aSx5dHO25n3xgRev9M21m8liwnzmarQiqKQmELJrhSE708/vm3WarVxJpOBYrHIHceBg4OD4c7Ozhh\u002BgULp1aPeBb8jEVKORrB\u002B9M23hsMQWOROcb\u002Bdiht6XlGUufF4nFdVdSaXywWVSiVEsnG1WuUU7m0\u002BUWTJNmI0x2RSPusOk9M3SCJngZPUYNE09BVZlu\u002BPRqPlKIruWpbFCSFeqVS62Nvbiyg82Bwuplh3PR830iZb5cBvLjtavJwxpm\u002BnrXzKtuc45/Ou6xY6nc68rutpSZLO\u002B/1\u002Ba2lpqU/h4RtvY4WGeTuWtqakx6uOnipnNTqdUGVdVRi2zwaDAWu1WiJULEwECCRpZrPZMwq1Xf7yeVVl1J/T4OLp/Ew8hfNICiNEkshEKDwPYRgSSimJxWLi\u002B9TzvE\u002B\u002B7x9LAARc94R/P67zzulnkKMBUDLCLJ8U402QTCZhYWEB1tbWCLpBcAza6/Xo4eEhQQKAer0OX78cwVnjBMLAB86vXJoQYAFgu1AoFGB2dhZM0xTdQLPZhAmBAKoMaBUW480i/oAgQSeAMQZiBFF8iSuCf8V/RoDzc9w2jpYJq/j1wLx4C62uRJLFA4XhmAywuIvL4qK/TIh2HeICXCS/2\u002B16eDbAf4NPNmVra8tA9mVMvECbHHyj0L\u002BVvoRwCs8F7XZ7H\u002BODbdv7E4Lt7W250WiY2EnaMIwp7ObnCv4FOIJYkp6maeeqqno/AArZJ/0PQoR0AAAAAElFTkSuQmCC",
+              "WhenOpened": "2026-02-19T12:42:05.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "AddTrand.xaml",
+              "DocumentMoniker": "E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MishnatYosef\\GUI\\AddTrand.xaml",
+              "RelativeDocumentMoniker": "GUI\\AddTrand.xaml",
+              "ToolTip": "E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MishnatYosef\\GUI\\AddTrand.xaml",
+              "RelativeToolTip": "GUI\\AddTrand.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-19T12:42:05.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ProductTrandService.cs",
+              "DocumentMoniker": "E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MishnatYosef\\BLL\\ProductTrandService.cs",
+              "RelativeDocumentMoniker": "BLL\\ProductTrandService.cs",
+              "ToolTip": "E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MishnatYosef\\BLL\\ProductTrandService.cs",
+              "RelativeToolTip": "BLL\\ProductTrandService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAASAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAK8SURBVDhPrVPbShtRFD23OZNkZpyYmIjxhq2k1AtU6KP4Ugt9Fx\u002BKv1D6Df6Dr/5ATd\u002BklIKFQvuqLdRLYizGYJrLZGIyGWbOXM5MJ1bBUvClXS97b9besFhnHfCvgDd1gLv9LcKbesvdna/7a2JnZwfX5Tqp9CuofFyG7aF2OGlMcnAM\u002BPr6\u002BmAFH4EjADIg2BjfwFvvt0DjS8MvFAoch2GIK1eVIStmjV52L8frbj0rQGEYxEBMXpKd5WfLwol5km35rSEUIhxPxHNNrynVsrWwnCh7ZG9/T9ahvtI1uy9gAOfluAwQRj2Rige5dO6t3bRTgR88Zw6jnu8V22Z71eBGk4Vsb3Z59jMp9UuZjtV56nruk6ySVVNy6gwh1BKJeDWdnBYEJDzqu/0Fva/HGWfxtJhe0PpaymJWmXK6T4qdogR9mJEEKZhQJw5isdhHDriGIW7l1JyOIOqLSAziQjygmNqKqOCEkICYYJ8yylFZK2Pd0gPbtX9gjN8okvJOUZVP\u002BYn894ycMSI1lkAElxDixmjMlqjEqUB9jLDHIAsI8ADwiR/YgW1VO9U2CYmbVtJBgAMiDovDvumv1Izag3P9PN6ze4pmasmO3XG6rDuDOU7i1ZerWYEKSyEIM17o\u002BQkxMeJwZzxSJXHMTQqod9G7sA3bqER\u002BfM2P5rvMYyeWb\u002B2LoVjCa6/XFBKQ2eg5ZxzPmXGBm2cue8gCRk1uno0qo1Wtp9Wig2JKTB0u5hYrhmMcMp\u002Bd5oycTsbAWFuSpG8t0MpGsh43tEYyMslQRbUmGzLs/Oy05ufmW47pXAdpLpw7323vhiNjI37hVYHDQZC2P2yrdVRPl5olpdltIoUoXpIm\u002B1PVqcbm5qYNIbyN8F9AEclVQ\u002B2pvlqVLKkYOX2MU/jUVMzLiGf3HQ/w52e6u/qbuff4PwCAX0rPZUKzF4wtAAAAAElFTkSuQmCC",
+              "WhenOpened": "2026-02-19T12:42:05.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "SeeBooking.xaml",
+              "DocumentMoniker": "E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MishnatYosef\\GUI\\SeeBooking.xaml",
+              "RelativeDocumentMoniker": "GUI\\SeeBooking.xaml",
+              "ToolTip": "E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MishnatYosef\\GUI\\SeeBooking.xaml",
+              "RelativeToolTip": "GUI\\SeeBooking.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-19T12:42:05.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MorePrToThisSale.xaml.cs",
+              "DocumentMoniker": "E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MishnatYosef\\GUI\\MorePrToThisSale.xaml.cs",
+              "RelativeDocumentMoniker": "GUI\\MorePrToThisSale.xaml.cs",
+              "ToolTip": "E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MishnatYosef\\GUI\\MorePrToThisSale.xaml.cs",
+              "RelativeToolTip": "GUI\\MorePrToThisSale.xaml.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACMAAAAMAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJ3SURBVDhPzVPBbtNAEJ31emPXNk4cHNImhiZtStpEtKVUIAQnjlz4gKpC4sChF/IHVT\u002Bjh34AV27cyBUpl0o0qkRVKtJUhDpR4qRybCfLbKAFVZw48aSx5dHO25n3xgRev9M21m8liwnzmarQiqKQmELJrhSE708/vm3WarVxJpOBYrHIHceBg4OD4c7Ozhh\u002BgULp1aPeBb8jEVKORrB\u002B9M23hsMQWOROcb\u002Bdiht6XlGUufF4nFdVdSaXywWVSiVEsnG1WuUU7m0\u002BUWTJNmI0x2RSPusOk9M3SCJngZPUYNE09BVZlu\u002BPRqPlKIruWpbFCSFeqVS62Nvbiyg82Bwuplh3PR830iZb5cBvLjtavJwxpm\u002BnrXzKtuc45/Ou6xY6nc68rutpSZLO\u002B/1\u002Ba2lpqU/h4RtvY4WGeTuWtqakx6uOnipnNTqdUGVdVRi2zwaDAWu1WiJULEwECCRpZrPZMwq1Xf7yeVVl1J/T4OLp/Ew8hfNICiNEkshEKDwPYRgSSimJxWLi\u002B9TzvE\u002B\u002B7x9LAARc94R/P67zzulnkKMBUDLCLJ8U402QTCZhYWEB1tbWCLpBcAza6/Xo4eEhQQKAer0OX78cwVnjBMLAB86vXJoQYAFgu1AoFGB2dhZM0xTdQLPZhAmBAKoMaBUW480i/oAgQSeAMQZiBFF8iSuCf8V/RoDzc9w2jpYJq/j1wLx4C62uRJLFA4XhmAywuIvL4qK/TIh2HeICXCS/2\u002B16eDbAf4NPNmVra8tA9mVMvECbHHyj0L\u002BVvoRwCs8F7XZ7H\u002BODbdv7E4Lt7W250WiY2EnaMIwp7ObnCv4FOIJYkp6maeeqqno/AArZJ/0PQoR0AAAAAElFTkSuQmCC",
+              "WhenOpened": "2026-02-19T12:42:05.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AddTrand.xaml.cs",
+              "DocumentMoniker": "E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MishnatYosef\\GUI\\AddTrand.xaml.cs",
+              "RelativeDocumentMoniker": "GUI\\AddTrand.xaml.cs",
+              "ToolTip": "E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MishnatYosef\\GUI\\AddTrand.xaml.cs",
+              "RelativeToolTip": "GUI\\AddTrand.xaml.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAADAAAAA6AAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJ3SURBVDhPzVPBbtNAEJ31emPXNk4cHNImhiZtStpEtKVUIAQnjlz4gKpC4sChF/IHVT\u002Bjh34AV27cyBUpl0o0qkRVKtJUhDpR4qRybCfLbKAFVZw48aSx5dHO25n3xgRev9M21m8liwnzmarQiqKQmELJrhSE708/vm3WarVxJpOBYrHIHceBg4OD4c7Ozhh\u002BgULp1aPeBb8jEVKORrB\u002B9M23hsMQWOROcb\u002Bdiht6XlGUufF4nFdVdSaXywWVSiVEsnG1WuUU7m0\u002BUWTJNmI0x2RSPusOk9M3SCJngZPUYNE09BVZlu\u002BPRqPlKIruWpbFCSFeqVS62Nvbiyg82Bwuplh3PR830iZb5cBvLjtavJwxpm\u002BnrXzKtuc45/Ou6xY6nc68rutpSZLO\u002B/1\u002Ba2lpqU/h4RtvY4WGeTuWtqakx6uOnipnNTqdUGVdVRi2zwaDAWu1WiJULEwECCRpZrPZMwq1Xf7yeVVl1J/T4OLp/Ew8hfNICiNEkshEKDwPYRgSSimJxWLi\u002B9TzvE\u002B\u002B7x9LAARc94R/P67zzulnkKMBUDLCLJ8U402QTCZhYWEB1tbWCLpBcAza6/Xo4eEhQQKAer0OX78cwVnjBMLAB86vXJoQYAFgu1AoFGB2dhZM0xTdQLPZhAmBAKoMaBUW480i/oAgQSeAMQZiBFF8iSuCf8V/RoDzc9w2jpYJq/j1wLx4C62uRJLFA4XhmAywuIvL4qK/TIh2HeICXCS/2\u002B16eDbAf4NPNmVra8tA9mVMvECbHHyj0L\u002BVvoRwCs8F7XZ7H\u002BODbdv7E4Lt7W250WiY2EnaMIwp7ObnCv4FOIJYkp6maeeqqno/AArZJ/0PQoR0AAAAAElFTkSuQmCC",
+              "WhenOpened": "2026-02-19T12:42:05.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AddBranch.xaml.cs",
+              "DocumentMoniker": "E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MishnatYosef\\GUI\\AddBranch.xaml.cs",
+              "RelativeDocumentMoniker": "GUI\\AddBranch.xaml.cs",
+              "ToolTip": "E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MishnatYosef\\GUI\\AddBranch.xaml.cs",
+              "RelativeToolTip": "GUI\\AddBranch.xaml.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAAADgAAAA7AAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJPSURBVDhPzVNLj9JQFL59XEpbpEAdTIhQnKmzGDZKojHRibAhMWz8A26MKzZuWGtcq3\u002BAtQtnpRtidGKMLEwmIURJXEAij\u002BERYujwkFcLbT23ccgYZePKLz296e253/nO\u002BVoKPf7A3g9jXg0EbnOYee7hWcwxzCN\u002Bbrx9//rZsFKp2AiQSCScSCaTJjw6ewQUund4S\u002BIZbn/Xc1XdEh7W\u002B7p35zx7eIkfv2t9ftMcaZpFEv1\u002Bvx2PxxeCIHxNp9NjiqIIEWKB65q\u002BtHCjv1Qxrbvr/ZkY8Qn7Pg\u002Bj4Gh0OJVlezqdIl3XLU3Thl6v92WhUDiybfs7IWERs3p1we92p/akG7LIpkxkBmIXz23FIgHZpUj20jBQs9lEpVLJrlarBigJQ\u002BGn\u002BXz\u002BI6xDBt19MX6wN5pFA2xQ5KjUzR2v/0pEpIGM5jkXzfM8DQpoIGF6vR4GFTLDMC6McSOTyXRZ9ISyrh8cWEvDZzGYRZflbeTjEKLJnCgKLgqJoohCoRBpmQLprk6n42u3226WhQbIbjgcxj9O\u002BtHFZHBnd1uBhlzk3BpQDUmS5JDIMBNQ0QQ1n4rFYoMmCa1WC/r8htrHDWQYOpi0dslRAG04h1VVRYqiOIpO4RCcwrIcx/4AIaFpeh1n5f1G8C/4DwnIHEzTdNZNAVb\u002Byj5DAMOx4MWi2\u002B3O6/X6vFar/TXgG5hPJhMDcp2Js\u002BQWi8VMsFKDykflcvkYfN/Y2mq1MgeDwRcoeBIMBm3HD2CjstmsMBqNghzHYSdzA\u002BCnIsuMEORyuflPg3Qb5hiLXHkAAAAASUVORK5CYII=",
+              "WhenOpened": "2026-02-19T12:42:05.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AddProduct.xaml.cs",
+              "DocumentMoniker": "E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MishnatYosef\\GUI\\AddProduct.xaml.cs",
+              "RelativeDocumentMoniker": "GUI\\AddProduct.xaml.cs",
+              "ToolTip": "E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MishnatYosef\\GUI\\AddProduct.xaml.cs",
+              "RelativeToolTip": "GUI\\AddProduct.xaml.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAAAD0AAABAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJ3SURBVDhPzVPBbtNAEJ31emPXNk4cHNImhiZtStpEtKVUIAQnjlz4gKpC4sChF/IHVT\u002Bjh34AV27cyBUpl0o0qkRVKtJUhDpR4qRybCfLbKAFVZw48aSx5dHO25n3xgRev9M21m8liwnzmarQiqKQmELJrhSE708/vm3WarVxJpOBYrHIHceBg4OD4c7Ozhh\u002BgULp1aPeBb8jEVKORrB\u002B9M23hsMQWOROcb\u002Bdiht6XlGUufF4nFdVdSaXywWVSiVEsnG1WuUU7m0\u002BUWTJNmI0x2RSPusOk9M3SCJngZPUYNE09BVZlu\u002BPRqPlKIruWpbFCSFeqVS62Nvbiyg82Bwuplh3PR830iZb5cBvLjtavJwxpm\u002BnrXzKtuc45/Ou6xY6nc68rutpSZLO\u002B/1\u002Ba2lpqU/h4RtvY4WGeTuWtqakx6uOnipnNTqdUGVdVRi2zwaDAWu1WiJULEwECCRpZrPZMwq1Xf7yeVVl1J/T4OLp/Ew8hfNICiNEkshEKDwPYRgSSimJxWLi\u002B9TzvE\u002B\u002B7x9LAARc94R/P67zzulnkKMBUDLCLJ8U402QTCZhYWEB1tbWCLpBcAza6/Xo4eEhQQKAer0OX78cwVnjBMLAB86vXJoQYAFgu1AoFGB2dhZM0xTdQLPZhAmBAKoMaBUW480i/oAgQSeAMQZiBFF8iSuCf8V/RoDzc9w2jpYJq/j1wLx4C62uRJLFA4XhmAywuIvL4qK/TIh2HeICXCS/2\u002B16eDbAf4NPNmVra8tA9mVMvECbHHyj0L\u002BVvoRwCs8F7XZ7H\u002BODbdv7E4Lt7W250WiY2EnaMIwp7ObnCv4FOIJYkp6maeeqqno/AArZJ/0PQoR0AAAAAElFTkSuQmCC",
+              "WhenOpened": "2026-02-19T12:42:05.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "dbo.ProductInSale [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/D__\u05D4\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8_\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8_MISHNATYOSEF_BIN_DEBUG_MISHNATYOSEF.MDF/True/SqlTable/dbo.ProductInSale.sql",
+              "ToolTip": "dbo.ProductInSale [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-06-20T06:14:27.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ManegerPage.xaml",
+              "DocumentMoniker": "E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MishnatYosef\\GUI\\ManegerPage.xaml",
+              "RelativeDocumentMoniker": "GUI\\ManegerPage.xaml",
+              "ToolTip": "E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MishnatYosef\\GUI\\ManegerPage.xaml",
+              "RelativeToolTip": "GUI\\ManegerPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-19T12:42:05.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AddCategory.xaml.cs",
+              "DocumentMoniker": "E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MishnatYosef\\GUI\\AddCategory.xaml.cs",
+              "RelativeDocumentMoniker": "GUI\\AddCategory.xaml.cs",
+              "ToolTip": "E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MishnatYosef\\GUI\\AddCategory.xaml.cs",
+              "RelativeToolTip": "GUI\\AddCategory.xaml.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAgwC8AAAA1AAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJ3SURBVDhPzVPBbtNAEJ31emPXNk4cHNImhiZtStpEtKVUIAQnjlz4gKpC4sChF/IHVT\u002Bjh34AV27cyBUpl0o0qkRVKtJUhDpR4qRybCfLbKAFVZw48aSx5dHO25n3xgRev9M21m8liwnzmarQiqKQmELJrhSE708/vm3WarVxJpOBYrHIHceBg4OD4c7Ozhh\u002BgULp1aPeBb8jEVKORrB\u002B9M23hsMQWOROcb\u002Bdiht6XlGUufF4nFdVdSaXywWVSiVEsnG1WuUU7m0\u002BUWTJNmI0x2RSPusOk9M3SCJngZPUYNE09BVZlu\u002BPRqPlKIruWpbFCSFeqVS62Nvbiyg82Bwuplh3PR830iZb5cBvLjtavJwxpm\u002BnrXzKtuc45/Ou6xY6nc68rutpSZLO\u002B/1\u002Ba2lpqU/h4RtvY4WGeTuWtqakx6uOnipnNTqdUGVdVRi2zwaDAWu1WiJULEwECCRpZrPZMwq1Xf7yeVVl1J/T4OLp/Ew8hfNICiNEkshEKDwPYRgSSimJxWLi\u002B9TzvE\u002B\u002B7x9LAARc94R/P67zzulnkKMBUDLCLJ8U402QTCZhYWEB1tbWCLpBcAza6/Xo4eEhQQKAer0OX78cwVnjBMLAB86vXJoQYAFgu1AoFGB2dhZM0xTdQLPZhAmBAKoMaBUW480i/oAgQSeAMQZiBFF8iSuCf8V/RoDzc9w2jpYJq/j1wLx4C62uRJLFA4XhmAywuIvL4qK/TIh2HeICXCS/2\u002B16eDbAf4NPNmVra8tA9mVMvECbHHyj0L\u002BVvoRwCs8F7XZ7H\u002BODbdv7E4Lt7W250WiY2EnaMIwp7ObnCv4FOIJYkp6maeeqqno/AArZJ/0PQoR0AAAAAElFTkSuQmCC",
+              "WhenOpened": "2026-02-19T12:42:05.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AddBranch.xaml",
+              "DocumentMoniker": "E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MishnatYosef\\GUI\\AddBranch.xaml",
+              "RelativeDocumentMoniker": "GUI\\AddBranch.xaml",
+              "ToolTip": "E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MishnatYosef\\GUI\\AddBranch.xaml",
+              "RelativeToolTip": "GUI\\AddBranch.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-19T12:42:05.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "MorePrToThisSale.xaml",
+              "DocumentMoniker": "E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MishnatYosef\\GUI\\MorePrToThisSale.xaml",
+              "RelativeDocumentMoniker": "GUI\\MorePrToThisSale.xaml",
+              "ToolTip": "E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MishnatYosef\\GUI\\MorePrToThisSale.xaml",
+              "RelativeToolTip": "GUI\\MorePrToThisSale.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-19T12:42:05.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UpDateProducts.xaml",
+              "DocumentMoniker": "E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MishnatYosef\\GUI\\UpDateProducts.xaml",
+              "RelativeDocumentMoniker": "GUI\\UpDateProducts.xaml",
+              "ToolTip": "E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MishnatYosef\\GUI\\UpDateProducts.xaml",
+              "RelativeToolTip": "GUI\\UpDateProducts.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-19T12:42:05.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AddExaitedPM.xaml.cs",
+              "DocumentMoniker": "E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MishnatYosef\\GUI\\AddExaitedPM.xaml.cs",
+              "RelativeDocumentMoniker": "GUI\\AddExaitedPM.xaml.cs",
+              "ToolTip": "E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MishnatYosef\\GUI\\AddExaitedPM.xaml.cs",
+              "RelativeToolTip": "GUI\\AddExaitedPM.xaml.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAADcAAAA5AAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJ3SURBVDhPzVPBbtNAEJ31emPXNk4cHNImhiZtStpEtKVUIAQnjlz4gKpC4sChF/IHVT\u002Bjh34AV27cyBUpl0o0qkRVKtJUhDpR4qRybCfLbKAFVZw48aSx5dHO25n3xgRev9M21m8liwnzmarQiqKQmELJrhSE708/vm3WarVxJpOBYrHIHceBg4OD4c7Ozhh\u002BgULp1aPeBb8jEVKORrB\u002B9M23hsMQWOROcb\u002Bdiht6XlGUufF4nFdVdSaXywWVSiVEsnG1WuUU7m0\u002BUWTJNmI0x2RSPusOk9M3SCJngZPUYNE09BVZlu\u002BPRqPlKIruWpbFCSFeqVS62Nvbiyg82Bwuplh3PR830iZb5cBvLjtavJwxpm\u002BnrXzKtuc45/Ou6xY6nc68rutpSZLO\u002B/1\u002Ba2lpqU/h4RtvY4WGeTuWtqakx6uOnipnNTqdUGVdVRi2zwaDAWu1WiJULEwECCRpZrPZMwq1Xf7yeVVl1J/T4OLp/Ew8hfNICiNEkshEKDwPYRgSSimJxWLi\u002B9TzvE\u002B\u002B7x9LAARc94R/P67zzulnkKMBUDLCLJ8U402QTCZhYWEB1tbWCLpBcAza6/Xo4eEhQQKAer0OX78cwVnjBMLAB86vXJoQYAFgu1AoFGB2dhZM0xTdQLPZhAmBAKoMaBUW480i/oAgQSeAMQZiBFF8iSuCf8V/RoDzc9w2jpYJq/j1wLx4C62uRJLFA4XhmAywuIvL4qK/TIh2HeICXCS/2\u002B16eDbAf4NPNmVra8tA9mVMvECbHHyj0L\u002BVvoRwCs8F7XZ7H\u002BODbdv7E4Lt7W250WiY2EnaMIwp7ObnCv4FOIJYkp6maeeqqno/AArZJ/0PQoR0AAAAAElFTkSuQmCC",
+              "WhenOpened": "2026-02-19T12:42:05.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AddCity.xaml.cs",
+              "DocumentMoniker": "E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MishnatYosef\\GUI\\AddCity.xaml.cs",
+              "RelativeDocumentMoniker": "GUI\\AddCity.xaml.cs",
+              "ToolTip": "E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MishnatYosef\\GUI\\AddCity.xaml.cs",
+              "RelativeToolTip": "GUI\\AddCity.xaml.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAADEAAAAxAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJ3SURBVDhPzVPBbtNAEJ31emPXNk4cHNImhiZtStpEtKVUIAQnjlz4gKpC4sChF/IHVT\u002Bjh34AV27cyBUpl0o0qkRVKtJUhDpR4qRybCfLbKAFVZw48aSx5dHO25n3xgRev9M21m8liwnzmarQiqKQmELJrhSE708/vm3WarVxJpOBYrHIHceBg4OD4c7Ozhh\u002BgULp1aPeBb8jEVKORrB\u002B9M23hsMQWOROcb\u002Bdiht6XlGUufF4nFdVdSaXywWVSiVEsnG1WuUU7m0\u002BUWTJNmI0x2RSPusOk9M3SCJngZPUYNE09BVZlu\u002BPRqPlKIruWpbFCSFeqVS62Nvbiyg82Bwuplh3PR830iZb5cBvLjtavJwxpm\u002BnrXzKtuc45/Ou6xY6nc68rutpSZLO\u002B/1\u002Ba2lpqU/h4RtvY4WGeTuWtqakx6uOnipnNTqdUGVdVRi2zwaDAWu1WiJULEwECCRpZrPZMwq1Xf7yeVVl1J/T4OLp/Ew8hfNICiNEkshEKDwPYRgSSimJxWLi\u002B9TzvE\u002B\u002B7x9LAARc94R/P67zzulnkKMBUDLCLJ8U402QTCZhYWEB1tbWCLpBcAza6/Xo4eEhQQKAer0OX78cwVnjBMLAB86vXJoQYAFgu1AoFGB2dhZM0xTdQLPZhAmBAKoMaBUW480i/oAgQSeAMQZiBFF8iSuCf8V/RoDzc9w2jpYJq/j1wLx4C62uRJLFA4XhmAywuIvL4qK/TIh2HeICXCS/2\u002B16eDbAf4NPNmVra8tA9mVMvECbHHyj0L\u002BVvoRwCs8F7XZ7H\u002BODbdv7E4Lt7W250WiY2EnaMIwp7ObnCv4FOIJYkp6maeeqqno/AArZJ/0PQoR0AAAAAElFTkSuQmCC",
+              "WhenOpened": "2026-02-19T12:42:05.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AddSale.xaml.cs",
+              "DocumentMoniker": "E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MishnatYosef\\GUI\\AddSale.xaml.cs",
+              "RelativeDocumentMoniker": "GUI\\AddSale.xaml.cs",
+              "ToolTip": "E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MishnatYosef\\GUI\\AddSale.xaml.cs",
+              "RelativeToolTip": "GUI\\AddSale.xaml.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAABkAAAAYAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJ3SURBVDhPzVPBbtNAEJ31emPXNk4cHNImhiZtStpEtKVUIAQnjlz4gKpC4sChF/IHVT\u002Bjh34AV27cyBUpl0o0qkRVKtJUhDpR4qRybCfLbKAFVZw48aSx5dHO25n3xgRev9M21m8liwnzmarQiqKQmELJrhSE708/vm3WarVxJpOBYrHIHceBg4OD4c7Ozhh\u002BgULp1aPeBb8jEVKORrB\u002B9M23hsMQWOROcb\u002Bdiht6XlGUufF4nFdVdSaXywWVSiVEsnG1WuUU7m0\u002BUWTJNmI0x2RSPusOk9M3SCJngZPUYNE09BVZlu\u002BPRqPlKIruWpbFCSFeqVS62Nvbiyg82Bwuplh3PR830iZb5cBvLjtavJwxpm\u002BnrXzKtuc45/Ou6xY6nc68rutpSZLO\u002B/1\u002Ba2lpqU/h4RtvY4WGeTuWtqakx6uOnipnNTqdUGVdVRi2zwaDAWu1WiJULEwECCRpZrPZMwq1Xf7yeVVl1J/T4OLp/Ew8hfNICiNEkshEKDwPYRgSSimJxWLi\u002B9TzvE\u002B\u002B7x9LAARc94R/P67zzulnkKMBUDLCLJ8U402QTCZhYWEB1tbWCLpBcAza6/Xo4eEhQQKAer0OX78cwVnjBMLAB86vXJoQYAFgu1AoFGB2dhZM0xTdQLPZhAmBAKoMaBUW480i/oAgQSeAMQZiBFF8iSuCf8V/RoDzc9w2jpYJq/j1wLx4C62uRJLFA4XhmAywuIvL4qK/TIh2HeICXCS/2\u002B16eDbAf4NPNmVra8tA9mVMvECbHHyj0L\u002BVvoRwCs8F7XZ7H\u002BODbdv7E4Lt7W250WiY2EnaMIwp7ObnCv4FOIJYkp6maeeqqno/AArZJ/0PQoR0AAAAAElFTkSuQmCC",
+              "WhenOpened": "2026-02-19T12:42:05.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AddSale.xaml",
+              "DocumentMoniker": "E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MishnatYosef\\GUI\\AddSale.xaml",
+              "RelativeDocumentMoniker": "GUI\\AddSale.xaml",
+              "ToolTip": "E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MishnatYosef\\GUI\\AddSale.xaml",
+              "RelativeToolTip": "GUI\\AddSale.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-19T12:42:05.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AllSale.xaml",
+              "DocumentMoniker": "E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MishnatYosef\\GUI\\AllSale.xaml",
+              "RelativeDocumentMoniker": "GUI\\AllSale.xaml",
+              "ToolTip": "E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MishnatYosef\\GUI\\AllSale.xaml",
+              "RelativeToolTip": "GUI\\AllSale.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-19T12:42:05.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ProductInSale.cs",
+              "DocumentMoniker": "E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MishnatYosef\\Model\\ProductInSale.cs",
+              "RelativeDocumentMoniker": "Model\\ProductInSale.cs",
+              "ToolTip": "E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MishnatYosef\\Model\\ProductInSale.cs",
+              "RelativeToolTip": "Model\\ProductInSale.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJ3SURBVDhPzVPBbtNAEJ31emPXNk4cHNImhiZtStpEtKVUIAQnjlz4gKpC4sChF/IHVT\u002Bjh34AV27cyBUpl0o0qkRVKtJUhDpR4qRybCfLbKAFVZw48aSx5dHO25n3xgRev9M21m8liwnzmarQiqKQmELJrhSE708/vm3WarVxJpOBYrHIHceBg4OD4c7Ozhh\u002BgULp1aPeBb8jEVKORrB\u002B9M23hsMQWOROcb\u002Bdiht6XlGUufF4nFdVdSaXywWVSiVEsnG1WuUU7m0\u002BUWTJNmI0x2RSPusOk9M3SCJngZPUYNE09BVZlu\u002BPRqPlKIruWpbFCSFeqVS62Nvbiyg82Bwuplh3PR830iZb5cBvLjtavJwxpm\u002BnrXzKtuc45/Ou6xY6nc68rutpSZLO\u002B/1\u002Ba2lpqU/h4RtvY4WGeTuWtqakx6uOnipnNTqdUGVdVRi2zwaDAWu1WiJULEwECCRpZrPZMwq1Xf7yeVVl1J/T4OLp/Ew8hfNICiNEkshEKDwPYRgSSimJxWLi\u002B9TzvE\u002B\u002B7x9LAARc94R/P67zzulnkKMBUDLCLJ8U402QTCZhYWEB1tbWCLpBcAza6/Xo4eEhQQKAer0OX78cwVnjBMLAB86vXJoQYAFgu1AoFGB2dhZM0xTdQLPZhAmBAKoMaBUW480i/oAgQSeAMQZiBFF8iSuCf8V/RoDzc9w2jpYJq/j1wLx4C62uRJLFA4XhmAywuIvL4qK/TIh2HeICXCS/2\u002B16eDbAf4NPNmVra8tA9mVMvECbHHyj0L\u002BVvoRwCs8F7XZ7H\u002BODbdv7E4Lt7W250WiY2EnaMIwp7ObnCv4FOIJYkp6maeeqqno/AArZJ/0PQoR0AAAAAElFTkSuQmCC",
+              "WhenOpened": "2026-02-19T12:42:05.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "AddCategory.xaml",
+              "DocumentMoniker": "E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MishnatYosef\\GUI\\AddCategory.xaml",
+              "RelativeDocumentMoniker": "GUI\\AddCategory.xaml",
+              "ToolTip": "E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MishnatYosef\\GUI\\AddCategory.xaml",
+              "RelativeToolTip": "GUI\\AddCategory.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-19T12:42:05.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Dictionary1.xaml",
+              "DocumentMoniker": "E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MishnatYosef\\GUI\\Dictionary1.xaml",
+              "RelativeDocumentMoniker": "GUI\\Dictionary1.xaml",
+              "ToolTip": "E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MishnatYosef\\GUI\\Dictionary1.xaml",
+              "RelativeToolTip": "GUI\\Dictionary1.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-19T12:42:05.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AddCity.xaml",
+              "DocumentMoniker": "E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MishnatYosef\\GUI\\AddCity.xaml",
+              "RelativeDocumentMoniker": "GUI\\AddCity.xaml",
+              "ToolTip": "E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MishnatYosef\\GUI\\AddCity.xaml",
+              "RelativeToolTip": "GUI\\AddCity.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-19T12:42:05.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "BookingCPage.xaml",
+              "DocumentMoniker": "E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MishnatYosef\\GUI\\BookingCPage.xaml",
+              "RelativeDocumentMoniker": "GUI\\BookingCPage.xaml",
+              "ToolTip": "E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MishnatYosef\\GUI\\BookingCPage.xaml",
+              "RelativeToolTip": "GUI\\BookingCPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-19T12:42:05.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ClientPage.xaml",
+              "DocumentMoniker": "E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MishnatYosef\\GUI\\ClientPage.xaml",
+              "RelativeDocumentMoniker": "GUI\\ClientPage.xaml",
+              "ToolTip": "E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MishnatYosef\\GUI\\ClientPage.xaml",
+              "RelativeToolTip": "GUI\\ClientPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-19T12:42:05.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "OrderProductC.xaml.cs",
+              "DocumentMoniker": "E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MishnatYosef\\GUI\\OrderProductC.xaml.cs",
+              "RelativeDocumentMoniker": "GUI\\OrderProductC.xaml.cs",
+              "ToolTip": "E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MishnatYosef\\GUI\\OrderProductC.xaml.cs",
+              "RelativeToolTip": "GUI\\OrderProductC.xaml.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAAACoAAABrAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJ3SURBVDhPzVPBbtNAEJ31emPXNk4cHNImhiZtStpEtKVUIAQnjlz4gKpC4sChF/IHVT\u002Bjh34AV27cyBUpl0o0qkRVKtJUhDpR4qRybCfLbKAFVZw48aSx5dHO25n3xgRev9M21m8liwnzmarQiqKQmELJrhSE708/vm3WarVxJpOBYrHIHceBg4OD4c7Ozhh\u002BgULp1aPeBb8jEVKORrB\u002B9M23hsMQWOROcb\u002Bdiht6XlGUufF4nFdVdSaXywWVSiVEsnG1WuUU7m0\u002BUWTJNmI0x2RSPusOk9M3SCJngZPUYNE09BVZlu\u002BPRqPlKIruWpbFCSFeqVS62Nvbiyg82Bwuplh3PR830iZb5cBvLjtavJwxpm\u002BnrXzKtuc45/Ou6xY6nc68rutpSZLO\u002B/1\u002Ba2lpqU/h4RtvY4WGeTuWtqakx6uOnipnNTqdUGVdVRi2zwaDAWu1WiJULEwECCRpZrPZMwq1Xf7yeVVl1J/T4OLp/Ew8hfNICiNEkshEKDwPYRgSSimJxWLi\u002B9TzvE\u002B\u002B7x9LAARc94R/P67zzulnkKMBUDLCLJ8U402QTCZhYWEB1tbWCLpBcAza6/Xo4eEhQQKAer0OX78cwVnjBMLAB86vXJoQYAFgu1AoFGB2dhZM0xTdQLPZhAmBAKoMaBUW480i/oAgQSeAMQZiBFF8iSuCf8V/RoDzc9w2jpYJq/j1wLx4C62uRJLFA4XhmAywuIvL4qK/TIh2HeICXCS/2\u002B16eDbAf4NPNmVra8tA9mVMvECbHHyj0L\u002BVvoRwCs8F7XZ7H\u002BODbdv7E4Lt7W250WiY2EnaMIwp7ObnCv4FOIJYkp6maeeqqno/AArZJ/0PQoR0AAAAAElFTkSuQmCC",
+              "WhenOpened": "2026-02-19T12:42:05.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MishnatYosef\\BLL\\ProductService.cs",
+              "RelativeDocumentMoniker": "BLL\\ProductService.cs",
+              "ToolTip": "E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MishnatYosef\\BLL\\ProductService.cs",
+              "RelativeToolTip": "BLL\\ProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAK8SURBVDhPrVPbShtRFD23OZNkZpyYmIjxhq2k1AtU6KP4Ugt9Fx\u002BKv1D6Df6Dr/5ATd\u002BklIKFQvuqLdRLYizGYJrLZGIyGWbOXM5MJ1bBUvClXS97b9besFhnHfCvgDd1gLv9LcKbesvdna/7a2JnZwfX5Tqp9CuofFyG7aF2OGlMcnAM\u002BPr6\u002BmAFH4EjADIg2BjfwFvvt0DjS8MvFAoch2GIK1eVIStmjV52L8frbj0rQGEYxEBMXpKd5WfLwol5km35rSEUIhxPxHNNrynVsrWwnCh7ZG9/T9ahvtI1uy9gAOfluAwQRj2Rige5dO6t3bRTgR88Zw6jnu8V22Z71eBGk4Vsb3Z59jMp9UuZjtV56nruk6ySVVNy6gwh1BKJeDWdnBYEJDzqu/0Fva/HGWfxtJhe0PpaymJWmXK6T4qdogR9mJEEKZhQJw5isdhHDriGIW7l1JyOIOqLSAziQjygmNqKqOCEkICYYJ8yylFZK2Pd0gPbtX9gjN8okvJOUZVP\u002BYn894ycMSI1lkAElxDixmjMlqjEqUB9jLDHIAsI8ADwiR/YgW1VO9U2CYmbVtJBgAMiDovDvumv1Izag3P9PN6ze4pmasmO3XG6rDuDOU7i1ZerWYEKSyEIM17o\u002BQkxMeJwZzxSJXHMTQqod9G7sA3bqER\u002BfM2P5rvMYyeWb\u002B2LoVjCa6/XFBKQ2eg5ZxzPmXGBm2cue8gCRk1uno0qo1Wtp9Wig2JKTB0u5hYrhmMcMp\u002Bd5oycTsbAWFuSpG8t0MpGsh43tEYyMslQRbUmGzLs/Oy05ufmW47pXAdpLpw7323vhiNjI37hVYHDQZC2P2yrdVRPl5olpdltIoUoXpIm\u002B1PVqcbm5qYNIbyN8F9AEclVQ\u002B2pvlqVLKkYOX2MU/jUVMzLiGf3HQ/w52e6u/qbuff4PwCAX0rPZUKzF4wtAAAAAElFTkSuQmCC",
+              "WhenOpened": "2026-02-19T12:42:05.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "BookingService.cs",
+              "DocumentMoniker": "E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MishnatYosef\\BLL\\BookingService.cs",
+              "RelativeDocumentMoniker": "BLL\\BookingService.cs",
+              "ToolTip": "E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MishnatYosef\\BLL\\BookingService.cs",
+              "RelativeToolTip": "BLL\\BookingService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAK8SURBVDhPrVPbShtRFD23OZNkZpyYmIjxhq2k1AtU6KP4Ugt9Fx\u002BKv1D6Df6Dr/5ATd\u002BklIKFQvuqLdRLYizGYJrLZGIyGWbOXM5MJ1bBUvClXS97b9besFhnHfCvgDd1gLv9LcKbesvdna/7a2JnZwfX5Tqp9CuofFyG7aF2OGlMcnAM\u002BPr6\u002BmAFH4EjADIg2BjfwFvvt0DjS8MvFAoch2GIK1eVIStmjV52L8frbj0rQGEYxEBMXpKd5WfLwol5km35rSEUIhxPxHNNrynVsrWwnCh7ZG9/T9ahvtI1uy9gAOfluAwQRj2Rige5dO6t3bRTgR88Zw6jnu8V22Z71eBGk4Vsb3Z59jMp9UuZjtV56nruk6ySVVNy6gwh1BKJeDWdnBYEJDzqu/0Fva/HGWfxtJhe0PpaymJWmXK6T4qdogR9mJEEKZhQJw5isdhHDriGIW7l1JyOIOqLSAziQjygmNqKqOCEkICYYJ8yylFZK2Pd0gPbtX9gjN8okvJOUZVP\u002BYn894ycMSI1lkAElxDixmjMlqjEqUB9jLDHIAsI8ADwiR/YgW1VO9U2CYmbVtJBgAMiDovDvumv1Izag3P9PN6ze4pmasmO3XG6rDuDOU7i1ZerWYEKSyEIM17o\u002BQkxMeJwZzxSJXHMTQqod9G7sA3bqER\u002BfM2P5rvMYyeWb\u002B2LoVjCa6/XFBKQ2eg5ZxzPmXGBm2cue8gCRk1uno0qo1Wtp9Wig2JKTB0u5hYrhmMcMp\u002Bd5oycTsbAWFuSpG8t0MpGsh43tEYyMslQRbUmGzLs/Oy05ufmW47pXAdpLpw7323vhiNjI37hVYHDQZC2P2yrdVRPl5olpdltIoUoXpIm\u002B1PVqcbm5qYNIbyN8F9AEclVQ\u002B2pvlqVLKkYOX2MU/jUVMzLiGf3HQ/w52e6u/qbuff4PwCAX0rPZUKzF4wtAAAAAElFTkSuQmCC",
+              "WhenOpened": "2026-02-19T12:42:05.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ManegerPage.xaml.cs",
+              "DocumentMoniker": "E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MishnatYosef\\GUI\\ManegerPage.xaml.cs",
+              "RelativeDocumentMoniker": "GUI\\ManegerPage.xaml.cs",
+              "ToolTip": "E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MishnatYosef\\GUI\\ManegerPage.xaml.cs",
+              "RelativeToolTip": "GUI\\ManegerPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJ3SURBVDhPzVPBbtNAEJ31emPXNk4cHNImhiZtStpEtKVUIAQnjlz4gKpC4sChF/IHVT\u002Bjh34AV27cyBUpl0o0qkRVKtJUhDpR4qRybCfLbKAFVZw48aSx5dHO25n3xgRev9M21m8liwnzmarQiqKQmELJrhSE708/vm3WarVxJpOBYrHIHceBg4OD4c7Ozhh\u002BgULp1aPeBb8jEVKORrB\u002B9M23hsMQWOROcb\u002Bdiht6XlGUufF4nFdVdSaXywWVSiVEsnG1WuUU7m0\u002BUWTJNmI0x2RSPusOk9M3SCJngZPUYNE09BVZlu\u002BPRqPlKIruWpbFCSFeqVS62Nvbiyg82Bwuplh3PR830iZb5cBvLjtavJwxpm\u002BnrXzKtuc45/Ou6xY6nc68rutpSZLO\u002B/1\u002Ba2lpqU/h4RtvY4WGeTuWtqakx6uOnipnNTqdUGVdVRi2zwaDAWu1WiJULEwECCRpZrPZMwq1Xf7yeVVl1J/T4OLp/Ew8hfNICiNEkshEKDwPYRgSSimJxWLi\u002B9TzvE\u002B\u002B7x9LAARc94R/P67zzulnkKMBUDLCLJ8U402QTCZhYWEB1tbWCLpBcAza6/Xo4eEhQQKAer0OX78cwVnjBMLAB86vXJoQYAFgu1AoFGB2dhZM0xTdQLPZhAmBAKoMaBUW480i/oAgQSeAMQZiBFF8iSuCf8V/RoDzc9w2jpYJq/j1wLx4C62uRJLFA4XhmAywuIvL4qK/TIh2HeICXCS/2\u002B16eDbAf4NPNmVra8tA9mVMvECbHHyj0L\u002BVvoRwCs8F7XZ7H\u002BODbdv7E4Lt7W250WiY2EnaMIwp7ObnCv4FOIJYkp6maeeqqno/AArZJ/0PQoR0AAAAAElFTkSuQmCC",
+              "WhenOpened": "2026-02-19T12:42:05.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "ClientPage.xaml.cs",
+              "DocumentMoniker": "E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MishnatYosef\\GUI\\ClientPage.xaml.cs",
+              "RelativeDocumentMoniker": "GUI\\ClientPage.xaml.cs",
+              "ToolTip": "E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MishnatYosef\\GUI\\ClientPage.xaml.cs",
+              "RelativeToolTip": "GUI\\ClientPage.xaml.cs",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJ3SURBVDhPzVPBbtNAEJ31emPXNk4cHNImhiZtStpEtKVUIAQnjlz4gKpC4sChF/IHVT\u002Bjh34AV27cyBUpl0o0qkRVKtJUhDpR4qRybCfLbKAFVZw48aSx5dHO25n3xgRev9M21m8liwnzmarQiqKQmELJrhSE708/vm3WarVxJpOBYrHIHceBg4OD4c7Ozhh\u002BgULp1aPeBb8jEVKORrB\u002B9M23hsMQWOROcb\u002Bdiht6XlGUufF4nFdVdSaXywWVSiVEsnG1WuUU7m0\u002BUWTJNmI0x2RSPusOk9M3SCJngZPUYNE09BVZlu\u002BPRqPlKIruWpbFCSFeqVS62Nvbiyg82Bwuplh3PR830iZb5cBvLjtavJwxpm\u002BnrXzKtuc45/Ou6xY6nc68rutpSZLO\u002B/1\u002Ba2lpqU/h4RtvY4WGeTuWtqakx6uOnipnNTqdUGVdVRi2zwaDAWu1WiJULEwECCRpZrPZMwq1Xf7yeVVl1J/T4OLp/Ew8hfNICiNEkshEKDwPYRgSSimJxWLi\u002B9TzvE\u002B\u002B7x9LAARc94R/P67zzulnkKMBUDLCLJ8U402QTCZhYWEB1tbWCLpBcAza6/Xo4eEhQQKAer0OX78cwVnjBMLAB86vXJoQYAFgu1AoFGB2dhZM0xTdQLPZhAmBAKoMaBUW480i/oAgQSeAMQZiBFF8iSuCf8V/RoDzc9w2jpYJq/j1wLx4C62uRJLFA4XhmAywuIvL4qK/TIh2HeICXCS/2\u002B16eDbAf4NPNmVra8tA9mVMvECbHHyj0L\u002BVvoRwCs8F7XZ7H\u002BODbdv7E4Lt7W250WiY2EnaMIwp7ObnCv4FOIJYkp6maeeqqno/AArZJ/0PQoR0AAAAAElFTkSuQmCC",
+              "WhenOpened": "2026-02-19T12:42:05.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "BookingCPage.xaml.cs",
+              "DocumentMoniker": "E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MishnatYosef\\GUI\\BookingCPage.xaml.cs",
+              "RelativeDocumentMoniker": "GUI\\BookingCPage.xaml.cs",
+              "ToolTip": "E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D4\u05D2\u05E9\u05D4\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MishnatYosef\\GUI\\BookingCPage.xaml.cs",
+              "RelativeToolTip": "GUI\\BookingCPage.xaml.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJ3SURBVDhPzVPBbtNAEJ31emPXNk4cHNImhiZtStpEtKVUIAQnjlz4gKpC4sChF/IHVT\u002Bjh34AV27cyBUpl0o0qkRVKtJUhDpR4qRybCfLbKAFVZw48aSx5dHO25n3xgRev9M21m8liwnzmarQiqKQmELJrhSE708/vm3WarVxJpOBYrHIHceBg4OD4c7Ozhh\u002BgULp1aPeBb8jEVKORrB\u002B9M23hsMQWOROcb\u002Bdiht6XlGUufF4nFdVdSaXywWVSiVEsnG1WuUU7m0\u002BUWTJNmI0x2RSPusOk9M3SCJngZPUYNE09BVZlu\u002BPRqPlKIruWpbFCSFeqVS62Nvbiyg82Bwuplh3PR830iZb5cBvLjtavJwxpm\u002BnrXzKtuc45/Ou6xY6nc68rutpSZLO\u002B/1\u002Ba2lpqU/h4RtvY4WGeTuWtqakx6uOnipnNTqdUGVdVRi2zwaDAWu1WiJULEwECCRpZrPZMwq1Xf7yeVVl1J/T4OLp/Ew8hfNICiNEkshEKDwPYRgSSimJxWLi\u002B9TzvE\u002B\u002B7x9LAARc94R/P67zzulnkKMBUDLCLJ8U402QTCZhYWEB1tbWCLpBcAza6/Xo4eEhQQKAer0OX78cwVnjBMLAB86vXJoQYAFgu1AoFGB2dhZM0xTdQLPZhAmBAKoMaBUW480i/oAgQSeAMQZiBFF8iSuCf8V/RoDzc9w2jpYJq/j1wLx4C62uRJLFA4XhmAywuIvL4qK/TIh2HeICXCS/2\u002B16eDbAf4NPNmVra8tA9mVMvECbHHyj0L\u002BVvoRwCs8F7XZ7H\u002BODbdv7E4Lt7W250WiY2EnaMIwp7ObnCv4FOIJYkp6maeeqqno/AArZJ/0PQoR0AAAAAElFTkSuQmCC",
+              "WhenOpened": "2026-02-19T12:42:05.259Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+﻿<Page x:Class="MishnatYosef.GUI.CreditCardCPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:MishnatYosef.GUI" xmlns:local1="clr-namespace:MishnatYosef.BLL"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="CreditCardCPage">
+    <Page.Resources>
+        <ResourceDictionary Source="Dictionary1.xaml"></ResourceDictionary>
+    </Page.Resources>
+    <Grid Background="White">
+        <StackPanel x:Name="stp1">
+                <TextBlock Text="פרטי כרטיס אשראי" Style="{StaticResource txt2}"></TextBlock>
+            <TextBlock Text="מס' כרטיס אשראי" Style="{StaticResource txt3}" ></TextBlock>
+            <TextBox x:Name="cnumber" MaxLength="14"  Width="105" HorizontalAlignment="Right" Margin="12">
+                <Binding Path="NumCreditCard">
+                    <Binding.ValidationRules>
+                        <local1:IsNumber/>
+                    </Binding.ValidationRules>
+                </Binding>
+            </TextBox>
+            <TextBlock Text="שלוש ספרות" Style="{StaticResource txt3}"></TextBlock>
+            <TextBox x:Name="tnumber" MaxLength="3">
+                <Binding Path="C3_Numbers">
+                    <Binding.ValidationRules>
+                        <local1:IsNumber/>
+                    </Binding.ValidationRules>
+                </Binding>
+            </TextBox>
+            <TextBlock Text="תוקף"  Style="{StaticResource txt3}"></TextBlock>
+            <TextBox Text="{Binding Force}" MaxLength="9"></TextBox>
+            <Button Grid.Row="1" x:Name="upDate" Click="upDate_Click" Content="לעדכון הפרטים" Style="{StaticResource b3}" Margin="0,0,0,5" Height="40" Width="241"  ></Button>
+        </StackPanel>
+    </Grid>
+</Page>

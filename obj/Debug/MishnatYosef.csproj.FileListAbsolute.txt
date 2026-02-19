@@ -1,0 +1,538 @@
+C:\Users\צפורה חנה לוין\Documents\סימי לוין ש.ב של תכנות\שנה ג\הפרויקט\MishnatYosef\bin\Debug\MishnatYosef.mdf
+C:\Users\צפורה חנה לוין\Documents\סימי לוין ש.ב של תכנות\שנה ג\הפרויקט\MishnatYosef\bin\Debug\MishnatYosef_log.ldf
+C:\Users\צפורה חנה לוין\Documents\סימי לוין ש.ב של תכנות\שנה ג\הפרויקט\MishnatYosef\bin\Debug\MishnatYosef.exe.config
+C:\Users\צפורה חנה לוין\Documents\סימי לוין ש.ב של תכנות\שנה ג\הפרויקט\MishnatYosef\bin\Debug\MishnatYosef.exe
+C:\Users\צפורה חנה לוין\Documents\סימי לוין ש.ב של תכנות\שנה ג\הפרויקט\MishnatYosef\bin\Debug\MishnatYosef.pdb
+C:\Users\צפורה חנה לוין\Documents\סימי לוין ש.ב של תכנות\שנה ג\הפרויקט\MishnatYosef\bin\Debug\EntityFramework.dll
+C:\Users\צפורה חנה לוין\Documents\סימי לוין ש.ב של תכנות\שנה ג\הפרויקט\MishnatYosef\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\צפורה חנה לוין\Documents\סימי לוין ש.ב של תכנות\שנה ג\הפרויקט\MishnatYosef\bin\Debug\EntityFramework.xml
+C:\Users\צפורה חנה לוין\Documents\סימי לוין ש.ב של תכנות\שנה ג\הפרויקט\MishnatYosef\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\צפורה חנה לוין\Documents\סימי לוין ש.ב של תכנות\שנה ג\הפרויקט\MishnatYosef\obj\Debug\MishnatYosef.csproj.AssemblyReference.cache
+C:\Users\צפורה חנה לוין\Documents\סימי לוין ש.ב של תכנות\שנה ג\הפרויקט\MishnatYosef\obj\Debug\MishnatYosef.csproj.SuggestedBindingRedirects.cache
+C:\Users\צפורה חנה לוין\Documents\סימי לוין ש.ב של תכנות\שנה ג\הפרויקט\MishnatYosef\obj\Debug\MainWindow.g.cs
+C:\Users\צפורה חנה לוין\Documents\סימי לוין ש.ב של תכנות\שנה ג\הפרויקט\MishnatYosef\obj\Debug\App.g.cs
+C:\Users\צפורה חנה לוין\Documents\סימי לוין ש.ב של תכנות\שנה ג\הפרויקט\MishnatYosef\obj\Debug\MishnatYosef_Content.g.cs
+C:\Users\צפורה חנה לוין\Documents\סימי לוין ש.ב של תכנות\שנה ג\הפרויקט\MishnatYosef\obj\Debug\MishnatYosef_MarkupCompile.cache
+C:\Users\צפורה חנה לוין\Documents\סימי לוין ש.ב של תכנות\שנה ג\הפרויקט\MishnatYosef\obj\Debug\MishnatYosef_MarkupCompile.lref
+C:\Users\צפורה חנה לוין\Documents\סימי לוין ש.ב של תכנות\שנה ג\הפרויקט\MishnatYosef\obj\Debug\MainWindow.baml
+C:\Users\צפורה חנה לוין\Documents\סימי לוין ש.ב של תכנות\שנה ג\הפרויקט\MishnatYosef\obj\Debug\MishnatYosef.g.resources
+C:\Users\צפורה חנה לוין\Documents\סימי לוין ש.ב של תכנות\שנה ג\הפרויקט\MishnatYosef\obj\Debug\MishnatYosef.Properties.Resources.resources
+C:\Users\צפורה חנה לוין\Documents\סימי לוין ש.ב של תכנות\שנה ג\הפרויקט\MishnatYosef\obj\Debug\MishnatYosef.csproj.GenerateResource.cache
+C:\Users\צפורה חנה לוין\Documents\סימי לוין ש.ב של תכנות\שנה ג\הפרויקט\MishnatYosef\obj\Debug\MishnatYosef.csproj.CoreCompileInputs.cache
+C:\Users\צפורה חנה לוין\Documents\סימי לוין ש.ב של תכנות\שנה ג\הפרויקט\MishnatYosef\obj\Debug\MishnatYosef.csproj.CopyComplete
+C:\Users\צפורה חנה לוין\Documents\סימי לוין ש.ב של תכנות\שנה ג\הפרויקט\MishnatYosef\obj\Debug\MishnatYosef.exe
+C:\Users\צפורה חנה לוין\Documents\סימי לוין ש.ב של תכנות\שנה ג\הפרויקט\MishnatYosef\obj\Debug\MishnatYosef.pdb
+C:\Users\צפורה חנה לוין\Documents\סימי לוין ש.ב של תכנות\שנה ג\הפרויקט\MishnatYosef\obj\Debug\GUI\ClientDetails.g.cs
+C:\Users\צפורה חנה לוין\Documents\סימי לוין ש.ב של תכנות\שנה ג\הפרויקט\MishnatYosef\obj\Debug\GUI\Dictionary1.baml
+C:\Users\צפורה חנה לוין\Documents\סימי לוין ש.ב של תכנות\שנה ג\הפרויקט\MishnatYosef\obj\Debug\GUI\ClientDetails.baml
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\הפרויקט\MishnatYosef\bin\Debug\MishnatYosef.mdf
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\הפרויקט\MishnatYosef\bin\Debug\MishnatYosef_log.ldf
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\הפרויקט\MishnatYosef\bin\Debug\MishnatYosef.exe.config
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\הפרויקט\MishnatYosef\bin\Debug\MishnatYosef.exe
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\הפרויקט\MishnatYosef\bin\Debug\MishnatYosef.pdb
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\הפרויקט\MishnatYosef\bin\Debug\EntityFramework.dll
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\הפרויקט\MishnatYosef\bin\Debug\EntityFramework.SqlServer.dll
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\הפרויקט\MishnatYosef\bin\Debug\EntityFramework.xml
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\הפרויקט\MishnatYosef\bin\Debug\EntityFramework.SqlServer.xml
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\הפרויקט\MishnatYosef\obj\Debug\MishnatYosef.csproj.AssemblyReference.cache
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\הפרויקט\MishnatYosef\obj\Debug\MishnatYosef.csproj.SuggestedBindingRedirects.cache
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\הפרויקט\MishnatYosef\obj\Debug\GUI\Dictionary1.baml
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\הפרויקט\MishnatYosef\obj\Debug\GUI\BookingCPage.g.cs
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\הפרויקט\MishnatYosef\obj\Debug\GUI\CreditCardCPage.g.cs
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\הפרויקט\MishnatYosef\obj\Debug\GUI\PrivateDetailsCPage.g.cs
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\הפרויקט\MishnatYosef\obj\Debug\MainWindow.g.cs
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\הפרויקט\MishnatYosef\obj\Debug\App.g.cs
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\הפרויקט\MishnatYosef\obj\Debug\MishnatYosef_Content.g.cs
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\הפרויקט\MishnatYosef\obj\Debug\MishnatYosef_MarkupCompile.cache
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\הפרויקט\MishnatYosef\obj\Debug\MishnatYosef_MarkupCompile.lref
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\הפרויקט\MishnatYosef\obj\Debug\GUI\BookingCPage.baml
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\הפרויקט\MishnatYosef\obj\Debug\GUI\CreditCardCPage.baml
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\הפרויקט\MishnatYosef\obj\Debug\GUI\PrivateDetailsCPage.baml
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\הפרויקט\MishnatYosef\obj\Debug\MainWindow.baml
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\הפרויקט\MishnatYosef\obj\Debug\MishnatYosef.g.resources
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\הפרויקט\MishnatYosef\obj\Debug\MishnatYosef.Properties.Resources.resources
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\הפרויקט\MishnatYosef\obj\Debug\MishnatYosef.csproj.GenerateResource.cache
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\הפרויקט\MishnatYosef\obj\Debug\MishnatYosef.csproj.CoreCompileInputs.cache
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\הפרויקט\MishnatYosef\obj\Debug\MishnatYosef.csproj.CopyComplete
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\הפרויקט\MishnatYosef\obj\Debug\MishnatYosef.exe
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\הפרויקט\MishnatYosef\obj\Debug\MishnatYosef.pdb
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\הפרויקט\MishnatYosef\obj\Debug\GUI\ManegerPage.g.cs
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\הפרויקט\MishnatYosef\obj\Debug\GUI\ManegerPage.baml
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\הפרויקט\MishnatYosef\obj\Debug\GUI\ClientPage.g.cs
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\הפרויקט\MishnatYosef\obj\Debug\GUI\UpDateProducts.g.cs
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\הפרויקט\MishnatYosef\obj\Debug\GUI\ClientPage.baml
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\הפרויקט\MishnatYosef\obj\Debug\GUI\UpDateProducts.baml
+D:\הפרויקט המשך\הפרויקט\MishnatYosef\obj\Debug\MishnatYosef.csproj.AssemblyReference.cache
+D:\הפרויקט המשך\הפרויקט\MishnatYosef\obj\Debug\MishnatYosef.csproj.SuggestedBindingRedirects.cache
+D:\הפרויקט המשך\הפרויקט\MishnatYosef\obj\Debug\MishnatYosef.exe
+D:\הפרויקט המשך\הפרויקט\MishnatYosef\obj\Debug\MishnatYosef.pdb
+D:\הפרויקט המשך\הפרויקט\MishnatYosef\obj\Debug\GUI\Dictionary1.baml
+D:\הפרויקט המשך\הפרויקט\MishnatYosef\obj\Debug\GUI\AddProductM.g.cs
+D:\הפרויקט המשך\הפרויקט\MishnatYosef\obj\Debug\GUI\AdvertaismentPage.g.cs
+D:\הפרויקט המשך\הפרויקט\MishnatYosef\obj\Debug\GUI\BookingCPage.g.cs
+D:\הפרויקט המשך\הפרויקט\MishnatYosef\obj\Debug\GUI\ClientPage.g.cs
+D:\הפרויקט המשך\הפרויקט\MishnatYosef\obj\Debug\GUI\LessProduct.g.cs
+D:\הפרויקט המשך\הפרויקט\MishnatYosef\obj\Debug\GUI\ManegerPage.g.cs
+D:\הפרויקט המשך\הפרויקט\MishnatYosef\obj\Debug\GUI\CreditCardCPage.g.cs
+D:\הפרויקט המשך\הפרויקט\MishnatYosef\obj\Debug\GUI\PrivateDetailsCPage.g.cs
+D:\הפרויקט המשך\הפרויקט\MishnatYosef\obj\Debug\GUI\UpDateProducts.g.cs
+D:\הפרויקט המשך\הפרויקט\MishnatYosef\obj\Debug\MainWindow.g.cs
+D:\הפרויקט המשך\הפרויקט\MishnatYosef\obj\Debug\App.g.cs
+D:\הפרויקט המשך\הפרויקט\MishnatYosef\obj\Debug\MishnatYosef_Content.g.cs
+D:\הפרויקט המשך\הפרויקט\MishnatYosef\obj\Debug\MishnatYosef_MarkupCompile.cache
+D:\הפרויקט המשך\הפרויקט\MishnatYosef\obj\Debug\MishnatYosef_MarkupCompile.lref
+D:\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\MishnatYosef.csproj.AssemblyReference.cache
+D:\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\MishnatYosef.csproj.SuggestedBindingRedirects.cache
+D:\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\Dictionary1.baml
+D:\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\BookingCPage.g.cs
+D:\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\ClientPage.g.cs
+D:\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\LessProduct.g.cs
+D:\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\ManegerPage.g.cs
+D:\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\CreditCardCPage.g.cs
+D:\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\PrivateDetailsCPage.g.cs
+D:\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\UpDateProducts.g.cs
+D:\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\MainWindow.g.cs
+D:\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\App.g.cs
+D:\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\MishnatYosef_Content.g.cs
+D:\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\MishnatYosef_MarkupCompile.cache
+D:\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\MishnatYosef_MarkupCompile.lref
+D:\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\MishnatYosef.exe
+D:\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\MishnatYosef.pdb
+D:\ההפרויקט\הפרויקט\MishnatYosef\bin\Debug\MishnatYosef.exe.config
+D:\ההפרויקט\הפרויקט\MishnatYosef\bin\Debug\MishnatYosef.exe
+D:\ההפרויקט\הפרויקט\MishnatYosef\bin\Debug\MishnatYosef.pdb
+D:\ההפרויקט\הפרויקט\MishnatYosef\bin\Debug\EntityFramework.dll
+D:\ההפרויקט\הפרויקט\MishnatYosef\bin\Debug\EntityFramework.SqlServer.dll
+D:\ההפרויקט\הפרויקט\MishnatYosef\bin\Debug\EntityFramework.xml
+D:\ההפרויקט\הפרויקט\MishnatYosef\bin\Debug\EntityFramework.SqlServer.xml
+D:\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\BookingCPage.baml
+D:\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\ClientPage.baml
+D:\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\LessProduct.baml
+D:\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\ManegerPage.baml
+D:\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\CreditCardCPage.baml
+D:\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\PrivateDetailsCPage.baml
+D:\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\UpDateProducts.baml
+D:\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\MainWindow.baml
+D:\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\MishnatYosef.g.resources
+D:\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\MishnatYosef.Properties.Resources.resources
+D:\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\MishnatYosef.csproj.GenerateResource.cache
+D:\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\MishnatYosef.csproj.CoreCompileInputs.cache
+D:\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\MishnatYosef.csproj.CopyComplete
+C:\Users\צפורה חנה לוין\Documents\סימי לוין ש.ב של תכנות\שנה ג\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\MishnatYosef.csproj.AssemblyReference.cache
+C:\Users\צפורה חנה לוין\Documents\סימי לוין ש.ב של תכנות\שנה ג\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\MishnatYosef.csproj.SuggestedBindingRedirects.cache
+C:\Users\צפורה חנה לוין\Documents\סימי לוין ש.ב של תכנות\שנה ג\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\Dictionary1.baml
+C:\Users\צפורה חנה לוין\Documents\סימי לוין ש.ב של תכנות\שנה ג\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\BookingCPage.g.cs
+C:\Users\צפורה חנה לוין\Documents\סימי לוין ש.ב של תכנות\שנה ג\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\ClientPage.g.cs
+C:\Users\צפורה חנה לוין\Documents\סימי לוין ש.ב של תכנות\שנה ג\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\LessProduct.g.cs
+C:\Users\צפורה חנה לוין\Documents\סימי לוין ש.ב של תכנות\שנה ג\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\ManegerPage.g.cs
+C:\Users\צפורה חנה לוין\Documents\סימי לוין ש.ב של תכנות\שנה ג\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\CreditCardCPage.g.cs
+C:\Users\צפורה חנה לוין\Documents\סימי לוין ש.ב של תכנות\שנה ג\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\OrderProductC.g.cs
+C:\Users\צפורה חנה לוין\Documents\סימי לוין ש.ב של תכנות\שנה ג\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\PrivateDetailsCPage.g.cs
+C:\Users\צפורה חנה לוין\Documents\סימי לוין ש.ב של תכנות\שנה ג\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\ProductAll.g.cs
+C:\Users\צפורה חנה לוין\Documents\סימי לוין ש.ב של תכנות\שנה ג\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\UpDateProducts.g.cs
+C:\Users\צפורה חנה לוין\Documents\סימי לוין ש.ב של תכנות\שנה ג\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\USProduct.g.cs
+C:\Users\צפורה חנה לוין\Documents\סימי לוין ש.ב של תכנות\שנה ג\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\MainWindow.g.cs
+C:\Users\צפורה חנה לוין\Documents\סימי לוין ש.ב של תכנות\שנה ג\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\App.g.cs
+C:\Users\צפורה חנה לוין\Documents\סימי לוין ש.ב של תכנות\שנה ג\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\MishnatYosef_Content.g.cs
+C:\Users\צפורה חנה לוין\Documents\סימי לוין ש.ב של תכנות\שנה ג\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\MishnatYosef_MarkupCompile.cache
+C:\Users\צפורה חנה לוין\Documents\סימי לוין ש.ב של תכנות\שנה ג\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\MishnatYosef_MarkupCompile.lref
+C:\Users\צפורה חנה לוין\Documents\סימי לוין ש.ב של תכנות\שנה ג\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\MishnatYosef.exe
+C:\Users\צפורה חנה לוין\Documents\סימי לוין ש.ב של תכנות\שנה ג\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\MishnatYosef.pdb
+C:\Users\צפורה חנה לוין\Documents\סימי לוין ש.ב של תכנות\שנה ג\ההפרויקט\הפרויקט\MishnatYosef\bin\Debug\MishnatYosef.exe.config
+C:\Users\צפורה חנה לוין\Documents\סימי לוין ש.ב של תכנות\שנה ג\ההפרויקט\הפרויקט\MishnatYosef\bin\Debug\MishnatYosef.exe
+C:\Users\צפורה חנה לוין\Documents\סימי לוין ש.ב של תכנות\שנה ג\ההפרויקט\הפרויקט\MishnatYosef\bin\Debug\MishnatYosef.pdb
+C:\Users\צפורה חנה לוין\Documents\סימי לוין ש.ב של תכנות\שנה ג\ההפרויקט\הפרויקט\MishnatYosef\bin\Debug\EntityFramework.dll
+C:\Users\צפורה חנה לוין\Documents\סימי לוין ש.ב של תכנות\שנה ג\ההפרויקט\הפרויקט\MishnatYosef\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\צפורה חנה לוין\Documents\סימי לוין ש.ב של תכנות\שנה ג\ההפרויקט\הפרויקט\MishnatYosef\bin\Debug\EntityFramework.xml
+C:\Users\צפורה חנה לוין\Documents\סימי לוין ש.ב של תכנות\שנה ג\ההפרויקט\הפרויקט\MishnatYosef\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\צפורה חנה לוין\Documents\סימי לוין ש.ב של תכנות\שנה ג\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\BookingCPage.baml
+C:\Users\צפורה חנה לוין\Documents\סימי לוין ש.ב של תכנות\שנה ג\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\ClientPage.baml
+C:\Users\צפורה חנה לוין\Documents\סימי לוין ש.ב של תכנות\שנה ג\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\LessProduct.baml
+C:\Users\צפורה חנה לוין\Documents\סימי לוין ש.ב של תכנות\שנה ג\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\ManegerPage.baml
+C:\Users\צפורה חנה לוין\Documents\סימי לוין ש.ב של תכנות\שנה ג\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\CreditCardCPage.baml
+C:\Users\צפורה חנה לוין\Documents\סימי לוין ש.ב של תכנות\שנה ג\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\OrderProductC.baml
+C:\Users\צפורה חנה לוין\Documents\סימי לוין ש.ב של תכנות\שנה ג\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\PrivateDetailsCPage.baml
+C:\Users\צפורה חנה לוין\Documents\סימי לוין ש.ב של תכנות\שנה ג\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\UpDateProducts.baml
+C:\Users\צפורה חנה לוין\Documents\סימי לוין ש.ב של תכנות\שנה ג\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\MainWindow.baml
+C:\Users\צפורה חנה לוין\Documents\סימי לוין ש.ב של תכנות\שנה ג\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\ProductAll.baml
+C:\Users\צפורה חנה לוין\Documents\סימי לוין ש.ב של תכנות\שנה ג\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\USProduct.baml
+C:\Users\צפורה חנה לוין\Documents\סימי לוין ש.ב של תכנות\שנה ג\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\MishnatYosef.g.resources
+C:\Users\צפורה חנה לוין\Documents\סימי לוין ש.ב של תכנות\שנה ג\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\MishnatYosef.Properties.Resources.resources
+C:\Users\צפורה חנה לוין\Documents\סימי לוין ש.ב של תכנות\שנה ג\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\MishnatYosef.csproj.GenerateResource.cache
+C:\Users\צפורה חנה לוין\Documents\סימי לוין ש.ב של תכנות\שנה ג\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\MishnatYosef.csproj.CoreCompileInputs.cache
+C:\Users\צפורה חנה לוין\Documents\סימי לוין ש.ב של תכנות\שנה ג\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\MishnatYosef.csproj.CopyComplete
+D:\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\AddBranch.g.cs
+D:\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\AddCategory.g.cs
+D:\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\AddCity.g.cs
+D:\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\AddExaitedPM.g.cs
+D:\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\AddProduct.g.cs
+D:\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\AddSale.g.cs
+D:\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\AddTrand.g.cs
+D:\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\OrderProductC.g.cs
+D:\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\ProductAll.g.cs
+D:\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\USProduct.g.cs
+D:\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\AddBranch.baml
+D:\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\AddCategory.baml
+D:\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\AddCity.baml
+D:\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\AddExaitedPM.baml
+D:\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\AddProduct.baml
+D:\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\AddSale.baml
+D:\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\AddTrand.baml
+D:\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\OrderProductC.baml
+D:\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\ProductAll.baml
+D:\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\USProduct.baml
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\ההפרויקט\הפרויקט\MishnatYosef\bin\Debug\MishnatYosef.exe.config
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\ההפרויקט\הפרויקט\MishnatYosef\bin\Debug\MishnatYosef.exe
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\ההפרויקט\הפרויקט\MishnatYosef\bin\Debug\MishnatYosef.pdb
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\ההפרויקט\הפרויקט\MishnatYosef\bin\Debug\EntityFramework.dll
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\ההפרויקט\הפרויקט\MishnatYosef\bin\Debug\EntityFramework.SqlServer.dll
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\ההפרויקט\הפרויקט\MishnatYosef\bin\Debug\EntityFramework.xml
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\ההפרויקט\הפרויקט\MishnatYosef\bin\Debug\EntityFramework.SqlServer.xml
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\MishnatYosef.csproj.AssemblyReference.cache
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\Dictionary1.baml
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\AddBranch.g.cs
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\AddCategory.g.cs
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\AddCity.g.cs
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\AddExaitedPM.g.cs
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\AddProduct.g.cs
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\AddSale.g.cs
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\AddTrand.g.cs
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\BookingCPage.g.cs
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\ClientPage.g.cs
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\LessProduct.g.cs
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\ManegerPage.g.cs
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\CreditCardCPage.g.cs
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\OrderProductC.g.cs
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\PrivateDetailsCPage.g.cs
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\ProductAll.g.cs
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\UpDateProducts.g.cs
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\USProduct.g.cs
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\MainWindow.g.cs
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\App.g.cs
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\MishnatYosef_Content.g.cs
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\MishnatYosef_MarkupCompile.cache
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\MishnatYosef_MarkupCompile.lref
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\AddBranch.baml
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\AddCategory.baml
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\AddCity.baml
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\AddExaitedPM.baml
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\AddProduct.baml
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\AddSale.baml
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\AddTrand.baml
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\BookingCPage.baml
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\ClientPage.baml
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\LessProduct.baml
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\ManegerPage.baml
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\CreditCardCPage.baml
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\OrderProductC.baml
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\PrivateDetailsCPage.baml
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\ProductAll.baml
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\UpDateProducts.baml
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\USProduct.baml
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\MainWindow.baml
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\MishnatYosef.g.resources
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\MishnatYosef.Properties.Resources.resources
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\MishnatYosef.csproj.GenerateResource.cache
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\MishnatYosef.csproj.CoreCompileInputs.cache
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\MishnatYosef.csproj.CopyComplete
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\MishnatYosef.exe
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\MishnatYosef.pdb
+D:\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\SeeBooking.g.cs
+D:\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\SeeBooking.baml
+D:\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\AllSale.g.cs
+D:\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\AllSale.baml
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\AllSale.g.cs
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\SeeBooking.g.cs
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\AllSale.baml
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\SeeBooking.baml
+C:\Users\צפורה חנה לוין\Documents\סימי לוין ש.ב של תכנות\שנה ג\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\AddBranch.g.cs
+C:\Users\צפורה חנה לוין\Documents\סימי לוין ש.ב של תכנות\שנה ג\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\AddCategory.g.cs
+C:\Users\צפורה חנה לוין\Documents\סימי לוין ש.ב של תכנות\שנה ג\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\AddCity.g.cs
+C:\Users\צפורה חנה לוין\Documents\סימי לוין ש.ב של תכנות\שנה ג\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\AddExaitedPM.g.cs
+C:\Users\צפורה חנה לוין\Documents\סימי לוין ש.ב של תכנות\שנה ג\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\AddProduct.g.cs
+C:\Users\צפורה חנה לוין\Documents\סימי לוין ש.ב של תכנות\שנה ג\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\AddSale.g.cs
+C:\Users\צפורה חנה לוין\Documents\סימי לוין ש.ב של תכנות\שנה ג\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\AddTrand.g.cs
+C:\Users\צפורה חנה לוין\Documents\סימי לוין ש.ב של תכנות\שנה ג\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\AllSale.g.cs
+C:\Users\צפורה חנה לוין\Documents\סימי לוין ש.ב של תכנות\שנה ג\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\SeeBooking.g.cs
+C:\Users\צפורה חנה לוין\Documents\סימי לוין ש.ב של תכנות\שנה ג\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\AddBranch.baml
+C:\Users\צפורה חנה לוין\Documents\סימי לוין ש.ב של תכנות\שנה ג\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\AddCategory.baml
+C:\Users\צפורה חנה לוין\Documents\סימי לוין ש.ב של תכנות\שנה ג\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\AddCity.baml
+C:\Users\צפורה חנה לוין\Documents\סימי לוין ש.ב של תכנות\שנה ג\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\AddExaitedPM.baml
+C:\Users\צפורה חנה לוין\Documents\סימי לוין ש.ב של תכנות\שנה ג\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\AddProduct.baml
+C:\Users\צפורה חנה לוין\Documents\סימי לוין ש.ב של תכנות\שנה ג\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\AddSale.baml
+C:\Users\צפורה חנה לוין\Documents\סימי לוין ש.ב של תכנות\שנה ג\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\AddTrand.baml
+C:\Users\צפורה חנה לוין\Documents\סימי לוין ש.ב של תכנות\שנה ג\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\AllSale.baml
+C:\Users\צפורה חנה לוין\Documents\סימי לוין ש.ב של תכנות\שנה ג\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\SeeBooking.baml
+C:\Users\צפורה חנה לוין\Documents\סימי לוין ש.ב של תכנות\שנה ג\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GeneratedInternalTypeHelper.g.cs
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\צפורה חנה לוין\Documents\סימי לוין ש.ב של תכנות\שנה ג\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\MorePrToThisSale.g.cs
+C:\Users\צפורה חנה לוין\Documents\סימי לוין ש.ב של תכנות\שנה ג\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\MorePrToThisSale.baml
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\MorePrToThisSale.g.cs
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\MorePrToThisSale.baml
+D:\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\MorePrToThisSale.g.cs
+D:\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\MorePrToThisSale.baml
+D:\מהשיעור הזה\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\MishnatYosef.csproj.AssemblyReference.cache
+D:\מהשיעור הזה\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\MishnatYosef.csproj.SuggestedBindingRedirects.cache
+D:\מהשיעור הזה\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\Dictionary1.baml
+D:\מהשיעור הזה\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\AddBranch.g.cs
+D:\מהשיעור הזה\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\AddCategory.g.cs
+D:\מהשיעור הזה\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\AddCity.g.cs
+D:\מהשיעור הזה\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\AddExaitedPM.g.cs
+D:\מהשיעור הזה\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\AddProduct.g.cs
+D:\מהשיעור הזה\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\AddSale.g.cs
+D:\מהשיעור הזה\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\AddTrand.g.cs
+D:\מהשיעור הזה\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\AllSale.g.cs
+D:\מהשיעור הזה\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\BookingCPage.g.cs
+D:\מהשיעור הזה\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\ClientPage.g.cs
+D:\מהשיעור הזה\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\LessProduct.g.cs
+D:\מהשיעור הזה\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\ManegerPage.g.cs
+D:\מהשיעור הזה\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\CreditCardCPage.g.cs
+D:\מהשיעור הזה\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\MorePrToThisSale.g.cs
+D:\מהשיעור הזה\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\OrderProductC.g.cs
+D:\מהשיעור הזה\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\PrivateDetailsCPage.g.cs
+D:\מהשיעור הזה\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\ProductAll.g.cs
+D:\מהשיעור הזה\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\SeeBooking.g.cs
+D:\מהשיעור הזה\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\UpDateProducts.g.cs
+D:\מהשיעור הזה\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\USProduct.g.cs
+D:\מהשיעור הזה\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\MainWindow.g.cs
+D:\מהשיעור הזה\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\App.g.cs
+D:\מהשיעור הזה\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\MishnatYosef_Content.g.cs
+D:\מהשיעור הזה\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\מהשיעור הזה\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\MishnatYosef_MarkupCompile.cache
+D:\מהשיעור הזה\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\MishnatYosef_MarkupCompile.lref
+D:\מהשיעור הזה\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\MishnatYosef.exe
+D:\מהשיעור הזה\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\MishnatYosef.pdb
+D:\מהשיעור הזה\ההפרויקט\הפרויקט\MishnatYosef\bin\Debug\MishnatYosef.exe.config
+D:\מהשיעור הזה\ההפרויקט\הפרויקט\MishnatYosef\bin\Debug\MishnatYosef.exe
+D:\מהשיעור הזה\ההפרויקט\הפרויקט\MishnatYosef\bin\Debug\MishnatYosef.pdb
+D:\מהשיעור הזה\ההפרויקט\הפרויקט\MishnatYosef\bin\Debug\EntityFramework.dll
+D:\מהשיעור הזה\ההפרויקט\הפרויקט\MishnatYosef\bin\Debug\EntityFramework.SqlServer.dll
+D:\מהשיעור הזה\ההפרויקט\הפרויקט\MishnatYosef\bin\Debug\EntityFramework.xml
+D:\מהשיעור הזה\ההפרויקט\הפרויקט\MishnatYosef\bin\Debug\EntityFramework.SqlServer.xml
+D:\מהשיעור הזה\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\AddBranch.baml
+D:\מהשיעור הזה\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\AddCategory.baml
+D:\מהשיעור הזה\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\AddCity.baml
+D:\מהשיעור הזה\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\AddExaitedPM.baml
+D:\מהשיעור הזה\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\AddProduct.baml
+D:\מהשיעור הזה\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\AddSale.baml
+D:\מהשיעור הזה\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\AddTrand.baml
+D:\מהשיעור הזה\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\AllSale.baml
+D:\מהשיעור הזה\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\BookingCPage.baml
+D:\מהשיעור הזה\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\ClientPage.baml
+D:\מהשיעור הזה\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\LessProduct.baml
+D:\מהשיעור הזה\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\ManegerPage.baml
+D:\מהשיעור הזה\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\CreditCardCPage.baml
+D:\מהשיעור הזה\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\MorePrToThisSale.baml
+D:\מהשיעור הזה\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\OrderProductC.baml
+D:\מהשיעור הזה\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\PrivateDetailsCPage.baml
+D:\מהשיעור הזה\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\ProductAll.baml
+D:\מהשיעור הזה\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\SeeBooking.baml
+D:\מהשיעור הזה\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\UpDateProducts.baml
+D:\מהשיעור הזה\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\USProduct.baml
+D:\מהשיעור הזה\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\MainWindow.baml
+D:\מהשיעור הזה\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\MishnatYosef.g.resources
+D:\מהשיעור הזה\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\MishnatYosef.Properties.Resources.resources
+D:\מהשיעור הזה\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\MishnatYosef.csproj.GenerateResource.cache
+D:\מהשיעור הזה\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\MishnatYosef.csproj.CoreCompileInputs.cache
+D:\מהשיעור הזה\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\MishnatYosef.csproj.CopyComplete
+D:\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\Window1.g.cs
+D:\ההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\Window1.baml
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\2windowההפרויקט\הפרויקט\MishnatYosef\bin\Debug\MishnatYosef.exe.config
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\2windowההפרויקט\הפרויקט\MishnatYosef\bin\Debug\MishnatYosef.exe
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\2windowההפרויקט\הפרויקט\MishnatYosef\bin\Debug\MishnatYosef.pdb
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\2windowההפרויקט\הפרויקט\MishnatYosef\bin\Debug\EntityFramework.dll
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\2windowההפרויקט\הפרויקט\MishnatYosef\bin\Debug\EntityFramework.SqlServer.dll
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\2windowההפרויקט\הפרויקט\MishnatYosef\bin\Debug\EntityFramework.xml
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\2windowההפרויקט\הפרויקט\MishnatYosef\bin\Debug\EntityFramework.SqlServer.xml
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\2windowההפרויקט\הפרויקט\MishnatYosef\obj\Debug\MishnatYosef.csproj.AssemblyReference.cache
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\2windowההפרויקט\הפרויקט\MishnatYosef\obj\Debug\MishnatYosef.csproj.SuggestedBindingRedirects.cache
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\2windowההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\Dictionary1.baml
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\2windowההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\AddBranch.g.cs
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\2windowההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\AddCategory.g.cs
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\2windowההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\AddCity.g.cs
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\2windowההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\AddExaitedPM.g.cs
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\2windowההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\AddProduct.g.cs
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\2windowההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\AddSale.g.cs
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\2windowההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\AddTrand.g.cs
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\2windowההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\AllSale.g.cs
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\2windowההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\BookingCPage.g.cs
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\2windowההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\ClientPage.g.cs
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\2windowההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\LessProduct.g.cs
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\2windowההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\ManegerPage.g.cs
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\2windowההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\CreditCardCPage.g.cs
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\2windowההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\MorePrToThisSale.g.cs
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\2windowההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\OrderProductC.g.cs
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\2windowההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\PrivateDetailsCPage.g.cs
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\2windowההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\ProductAll.g.cs
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\2windowההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\SeeBooking.g.cs
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\2windowההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\UpDateProducts.g.cs
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\2windowההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\USProduct.g.cs
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\2windowההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\Window1.g.cs
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\2windowההפרויקט\הפרויקט\MishnatYosef\obj\Debug\MainWindow.g.cs
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\2windowההפרויקט\הפרויקט\MishnatYosef\obj\Debug\App.g.cs
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\2windowההפרויקט\הפרויקט\MishnatYosef\obj\Debug\MishnatYosef_Content.g.cs
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\2windowההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GeneratedInternalTypeHelper.g.cs
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\2windowההפרויקט\הפרויקט\MishnatYosef\obj\Debug\MishnatYosef_MarkupCompile.cache
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\2windowההפרויקט\הפרויקט\MishnatYosef\obj\Debug\MishnatYosef_MarkupCompile.lref
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\2windowההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\AddBranch.baml
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\2windowההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\AddCategory.baml
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\2windowההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\AddCity.baml
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\2windowההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\AddExaitedPM.baml
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\2windowההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\AddProduct.baml
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\2windowההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\AddSale.baml
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\2windowההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\AddTrand.baml
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\2windowההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\AllSale.baml
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\2windowההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\BookingCPage.baml
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\2windowההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\ClientPage.baml
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\2windowההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\LessProduct.baml
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\2windowההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\ManegerPage.baml
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\2windowההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\CreditCardCPage.baml
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\2windowההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\MorePrToThisSale.baml
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\2windowההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\OrderProductC.baml
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\2windowההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\PrivateDetailsCPage.baml
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\2windowההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\ProductAll.baml
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\2windowההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\SeeBooking.baml
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\2windowההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\UpDateProducts.baml
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\2windowההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\USProduct.baml
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\2windowההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\Window1.baml
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\2windowההפרויקט\הפרויקט\MishnatYosef\obj\Debug\MainWindow.baml
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\2windowההפרויקט\הפרויקט\MishnatYosef\obj\Debug\MishnatYosef.g.resources
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\2windowההפרויקט\הפרויקט\MishnatYosef\obj\Debug\MishnatYosef.Properties.Resources.resources
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\2windowההפרויקט\הפרויקט\MishnatYosef\obj\Debug\MishnatYosef.csproj.GenerateResource.cache
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\2windowההפרויקט\הפרויקט\MishnatYosef\obj\Debug\MishnatYosef.csproj.CoreCompileInputs.cache
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\2windowההפרויקט\הפרויקט\MishnatYosef\obj\Debug\MishnatYosef.csproj.CopyComplete
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\2windowההפרויקט\הפרויקט\MishnatYosef\obj\Debug\MishnatYosef.exe
+X:\מגמות תיכון\תכנות\שנה ב\יב 3 ו נ יב4\א סימי לוין\2windowההפרויקט\הפרויקט\MishnatYosef\obj\Debug\MishnatYosef.pdb
+D:\2windowההפרויקט\הפרויקט\MishnatYosef\bin\Debug\MishnatYosef.exe.config
+D:\2windowההפרויקט\הפרויקט\MishnatYosef\bin\Debug\MishnatYosef.exe
+D:\2windowההפרויקט\הפרויקט\MishnatYosef\bin\Debug\MishnatYosef.pdb
+D:\2windowההפרויקט\הפרויקט\MishnatYosef\bin\Debug\EntityFramework.dll
+D:\2windowההפרויקט\הפרויקט\MishnatYosef\bin\Debug\EntityFramework.SqlServer.dll
+D:\2windowההפרויקט\הפרויקט\MishnatYosef\bin\Debug\EntityFramework.xml
+D:\2windowההפרויקט\הפרויקט\MishnatYosef\bin\Debug\EntityFramework.SqlServer.xml
+D:\2windowההפרויקט\הפרויקט\MishnatYosef\obj\Debug\MishnatYosef.csproj.AssemblyReference.cache
+D:\2windowההפרויקט\הפרויקט\MishnatYosef\obj\Debug\MishnatYosef.csproj.SuggestedBindingRedirects.cache
+D:\2windowההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\Dictionary1.baml
+D:\2windowההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\AddBranch.g.cs
+D:\2windowההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\AddCategory.g.cs
+D:\2windowההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\AddCity.g.cs
+D:\2windowההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\AddExaitedPM.g.cs
+D:\2windowההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\AddProduct.g.cs
+D:\2windowההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\AddSale.g.cs
+D:\2windowההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\AddTrand.g.cs
+D:\2windowההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\AllSale.g.cs
+D:\2windowההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\BookingCPage.g.cs
+D:\2windowההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\ClientPage.g.cs
+D:\2windowההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\LessProduct.g.cs
+D:\2windowההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\ManegerPage.g.cs
+D:\2windowההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\CreditCardCPage.g.cs
+D:\2windowההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\MorePrToThisSale.g.cs
+D:\2windowההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\OrderProductC.g.cs
+D:\2windowההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\PrivateDetailsCPage.g.cs
+D:\2windowההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\ProductAll.g.cs
+D:\2windowההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\SeeBooking.g.cs
+D:\2windowההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\UpDateProducts.g.cs
+D:\2windowההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\USProduct.g.cs
+D:\2windowההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\Window1.g.cs
+D:\2windowההפרויקט\הפרויקט\MishnatYosef\obj\Debug\MainWindow.g.cs
+D:\2windowההפרויקט\הפרויקט\MishnatYosef\obj\Debug\App.g.cs
+D:\2windowההפרויקט\הפרויקט\MishnatYosef\obj\Debug\MishnatYosef_Content.g.cs
+D:\2windowההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\2windowההפרויקט\הפרויקט\MishnatYosef\obj\Debug\MishnatYosef_MarkupCompile.cache
+D:\2windowההפרויקט\הפרויקט\MishnatYosef\obj\Debug\MishnatYosef_MarkupCompile.lref
+D:\2windowההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\AddBranch.baml
+D:\2windowההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\AddCategory.baml
+D:\2windowההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\AddCity.baml
+D:\2windowההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\AddExaitedPM.baml
+D:\2windowההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\AddProduct.baml
+D:\2windowההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\AddSale.baml
+D:\2windowההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\AddTrand.baml
+D:\2windowההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\AllSale.baml
+D:\2windowההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\BookingCPage.baml
+D:\2windowההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\ClientPage.baml
+D:\2windowההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\LessProduct.baml
+D:\2windowההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\ManegerPage.baml
+D:\2windowההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\CreditCardCPage.baml
+D:\2windowההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\MorePrToThisSale.baml
+D:\2windowההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\OrderProductC.baml
+D:\2windowההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\PrivateDetailsCPage.baml
+D:\2windowההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\ProductAll.baml
+D:\2windowההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\SeeBooking.baml
+D:\2windowההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\UpDateProducts.baml
+D:\2windowההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\USProduct.baml
+D:\2windowההפרויקט\הפרויקט\MishnatYosef\obj\Debug\GUI\Window1.baml
+D:\2windowההפרויקט\הפרויקט\MishnatYosef\obj\Debug\MainWindow.baml
+D:\2windowההפרויקט\הפרויקט\MishnatYosef\obj\Debug\MishnatYosef.g.resources
+D:\2windowההפרויקט\הפרויקט\MishnatYosef\obj\Debug\MishnatYosef.Properties.Resources.resources
+D:\2windowההפרויקט\הפרויקט\MishnatYosef\obj\Debug\MishnatYosef.csproj.GenerateResource.cache
+D:\2windowההפרויקט\הפרויקט\MishnatYosef\obj\Debug\MishnatYosef.csproj.CoreCompileInputs.cache
+D:\2windowההפרויקט\הפרויקט\MishnatYosef\obj\Debug\MishnatYosef.csproj.CopyComplete
+D:\2windowההפרויקט\הפרויקט\MishnatYosef\obj\Debug\MishnatYosef.exe
+D:\2windowההפרויקט\הפרויקט\MishnatYosef\obj\Debug\MishnatYosef.pdb
+D:\פרויקט להגשה\הפרויקט\MishnatYosef\bin\Debug\MishnatYosef.exe.config
+D:\פרויקט להגשה\הפרויקט\MishnatYosef\bin\Debug\MishnatYosef.exe
+D:\פרויקט להגשה\הפרויקט\MishnatYosef\bin\Debug\MishnatYosef.pdb
+D:\פרויקט להגשה\הפרויקט\MishnatYosef\bin\Debug\EntityFramework.dll
+D:\פרויקט להגשה\הפרויקט\MishnatYosef\bin\Debug\EntityFramework.SqlServer.dll
+D:\פרויקט להגשה\הפרויקט\MishnatYosef\bin\Debug\EntityFramework.xml
+D:\פרויקט להגשה\הפרויקט\MishnatYosef\bin\Debug\EntityFramework.SqlServer.xml
+D:\פרויקט להגשה\הפרויקט\MishnatYosef\obj\Debug\MishnatYosef.csproj.AssemblyReference.cache
+D:\פרויקט להגשה\הפרויקט\MishnatYosef\obj\Debug\MishnatYosef.csproj.SuggestedBindingRedirects.cache
+D:\פרויקט להגשה\הפרויקט\MishnatYosef\obj\Debug\GUI\Dictionary1.baml
+D:\פרויקט להגשה\הפרויקט\MishnatYosef\obj\Debug\GUI\AddBranch.g.cs
+D:\פרויקט להגשה\הפרויקט\MishnatYosef\obj\Debug\GUI\AddCategory.g.cs
+D:\פרויקט להגשה\הפרויקט\MishnatYosef\obj\Debug\GUI\AddCity.g.cs
+D:\פרויקט להגשה\הפרויקט\MishnatYosef\obj\Debug\GUI\AddExaitedPM.g.cs
+D:\פרויקט להגשה\הפרויקט\MishnatYosef\obj\Debug\GUI\AddProduct.g.cs
+D:\פרויקט להגשה\הפרויקט\MishnatYosef\obj\Debug\GUI\AddSale.g.cs
+D:\פרויקט להגשה\הפרויקט\MishnatYosef\obj\Debug\GUI\AddTrand.g.cs
+D:\פרויקט להגשה\הפרויקט\MishnatYosef\obj\Debug\GUI\AllSale.g.cs
+D:\פרויקט להגשה\הפרויקט\MishnatYosef\obj\Debug\GUI\BookingCPage.g.cs
+D:\פרויקט להגשה\הפרויקט\MishnatYosef\obj\Debug\GUI\ClientPage.g.cs
+D:\פרויקט להגשה\הפרויקט\MishnatYosef\obj\Debug\GUI\LessProduct.g.cs
+D:\פרויקט להגשה\הפרויקט\MishnatYosef\obj\Debug\GUI\ManegerPage.g.cs
+D:\פרויקט להגשה\הפרויקט\MishnatYosef\obj\Debug\GUI\CreditCardCPage.g.cs
+D:\פרויקט להגשה\הפרויקט\MishnatYosef\obj\Debug\GUI\MorePrToThisSale.g.cs
+D:\פרויקט להגשה\הפרויקט\MishnatYosef\obj\Debug\GUI\OrderProductC.g.cs
+D:\פרויקט להגשה\הפרויקט\MishnatYosef\obj\Debug\GUI\PrivateDetailsCPage.g.cs
+D:\פרויקט להגשה\הפרויקט\MishnatYosef\obj\Debug\GUI\ProductAll.g.cs
+D:\פרויקט להגשה\הפרויקט\MishnatYosef\obj\Debug\GUI\SeeBooking.g.cs
+D:\פרויקט להגשה\הפרויקט\MishnatYosef\obj\Debug\GUI\UpDateProducts.g.cs
+D:\פרויקט להגשה\הפרויקט\MishnatYosef\obj\Debug\GUI\USProduct.g.cs
+D:\פרויקט להגשה\הפרויקט\MishnatYosef\obj\Debug\GUI\Window1.g.cs
+D:\פרויקט להגשה\הפרויקט\MishnatYosef\obj\Debug\MainWindow.g.cs
+D:\פרויקט להגשה\הפרויקט\MishnatYosef\obj\Debug\App.g.cs
+D:\פרויקט להגשה\הפרויקט\MishnatYosef\obj\Debug\MishnatYosef_Content.g.cs
+D:\פרויקט להגשה\הפרויקט\MishnatYosef\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\פרויקט להגשה\הפרויקט\MishnatYosef\obj\Debug\MishnatYosef_MarkupCompile.cache
+D:\פרויקט להגשה\הפרויקט\MishnatYosef\obj\Debug\MishnatYosef_MarkupCompile.lref
+D:\פרויקט להגשה\הפרויקט\MishnatYosef\obj\Debug\GUI\AddBranch.baml
+D:\פרויקט להגשה\הפרויקט\MishnatYosef\obj\Debug\GUI\AddCategory.baml
+D:\פרויקט להגשה\הפרויקט\MishnatYosef\obj\Debug\GUI\AddCity.baml
+D:\פרויקט להגשה\הפרויקט\MishnatYosef\obj\Debug\GUI\AddExaitedPM.baml
+D:\פרויקט להגשה\הפרויקט\MishnatYosef\obj\Debug\GUI\AddProduct.baml
+D:\פרויקט להגשה\הפרויקט\MishnatYosef\obj\Debug\GUI\AddSale.baml
+D:\פרויקט להגשה\הפרויקט\MishnatYosef\obj\Debug\GUI\AddTrand.baml
+D:\פרויקט להגשה\הפרויקט\MishnatYosef\obj\Debug\GUI\AllSale.baml
+D:\פרויקט להגשה\הפרויקט\MishnatYosef\obj\Debug\GUI\BookingCPage.baml
+D:\פרויקט להגשה\הפרויקט\MishnatYosef\obj\Debug\GUI\ClientPage.baml
+D:\פרויקט להגשה\הפרויקט\MishnatYosef\obj\Debug\GUI\LessProduct.baml
+D:\פרויקט להגשה\הפרויקט\MishnatYosef\obj\Debug\GUI\ManegerPage.baml
+D:\פרויקט להגשה\הפרויקט\MishnatYosef\obj\Debug\GUI\CreditCardCPage.baml
+D:\פרויקט להגשה\הפרויקט\MishnatYosef\obj\Debug\GUI\MorePrToThisSale.baml
+D:\פרויקט להגשה\הפרויקט\MishnatYosef\obj\Debug\GUI\OrderProductC.baml
+D:\פרויקט להגשה\הפרויקט\MishnatYosef\obj\Debug\GUI\PrivateDetailsCPage.baml
+D:\פרויקט להגשה\הפרויקט\MishnatYosef\obj\Debug\GUI\ProductAll.baml
+D:\פרויקט להגשה\הפרויקט\MishnatYosef\obj\Debug\GUI\SeeBooking.baml
+D:\פרויקט להגשה\הפרויקט\MishnatYosef\obj\Debug\GUI\UpDateProducts.baml
+D:\פרויקט להגשה\הפרויקט\MishnatYosef\obj\Debug\GUI\USProduct.baml
+D:\פרויקט להגשה\הפרויקט\MishnatYosef\obj\Debug\GUI\Window1.baml
+D:\פרויקט להגשה\הפרויקט\MishnatYosef\obj\Debug\MainWindow.baml
+D:\פרויקט להגשה\הפרויקט\MishnatYosef\obj\Debug\MishnatYosef.g.resources
+D:\פרויקט להגשה\הפרויקט\MishnatYosef\obj\Debug\MishnatYosef.Properties.Resources.resources
+D:\פרויקט להגשה\הפרויקט\MishnatYosef\obj\Debug\MishnatYosef.csproj.GenerateResource.cache
+D:\פרויקט להגשה\הפרויקט\MishnatYosef\obj\Debug\MishnatYosef.csproj.CoreCompileInputs.cache
+D:\פרויקט להגשה\הפרויקט\MishnatYosef\obj\Debug\MishnatYosef.csproj.CopyComplete
+D:\פרויקט להגשה\הפרויקט\MishnatYosef\obj\Debug\MishnatYosef.exe
+D:\פרויקט להגשה\הפרויקט\MishnatYosef\obj\Debug\MishnatYosef.pdb

@@ -1,0 +1,54 @@
+﻿<Page x:Class="MishnatYosef.GUI.BookingCPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:MishnatYosef.GUI"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="BookingCPage">
+    <Page.Resources>
+        <ResourceDictionary Source="Dictionary1.xaml"></ResourceDictionary>
+    </Page.Resources>
+    <Grid Background="White">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <StackPanel Grid.Column="1" x:Name="stp">
+            <TextBlock Text="הזמנות" Style="{StaticResource txt2}"></TextBlock>      
+            <TextBlock x:Name="num" Text="בחר הזמנה לצפיה" Style="{StaticResource txt3}" Margin="2,2,12,2"></TextBlock>
+
+            <ListView x:Name="lstv" FlowDirection="RightToLeft" Width="auto" Height="200" Style="{StaticResource lv2}" SelectionChanged="lstv_SelectionChanged">
+                <ListView.View>
+                    <GridView>
+                        <GridViewColumn Header="מספר הזמנה" Width="auto" DisplayMemberBinding="{Binding Code}"/>
+                        <GridViewColumn Header="שבוע" Width="auto" DisplayMemberBinding="{Binding Sale.DateSale}"/>
+                        <GridViewColumn Header="זמן חלוקה מהשעה" Width="auto" DisplayMemberBinding="{Binding Client.Branch.FromHour}"></GridViewColumn>
+                        <GridViewColumn Header="עד השעה" Width="auto" DisplayMemberBinding="{Binding Client.Branch.StillHour}"></GridViewColumn>
+
+                        <GridViewColumn Header="סך הכל" Width="auto" DisplayMemberBinding="{Binding FinalAmount}"/>
+                    </GridView>
+                </ListView.View>
+            </ListView>
+            <Button x:Name="change" Content="לשינוי פרטי ההזמנה האחרונה" Visibility="Visible" Style="{StaticResource b3}" Height="35" Width="237" HorizontalAlignment="Right"  Click="Button_Click"></Button>
+
+        </StackPanel>
+        <StackPanel x:Name="stpP"  Grid.Column="0" Visibility="Hidden">
+            <TextBlock x:Name="txtp"  Style="{StaticResource txt2}"></TextBlock>
+            <ListView x:Name="lstvp" FlowDirection="RightToLeft" Width="auto" Style="{StaticResource lv2}" >
+                <ListView.View>
+                    <GridView>
+                        <GridViewColumn Header="שם מוצר" Width="auto" DisplayMemberBinding="{Binding Product.NameProduct}"/>
+                        <GridViewColumn Header="כמות" Width="auto" DisplayMemberBinding="{Binding Amount}"/>
+                        <GridViewColumn Header="קטגוריה" Width="auto" DisplayMemberBinding="{Binding Product.Category.Name}"/>
+                        <GridViewColumn Header="מותג" Width="auto" DisplayMemberBinding="{Binding Product.ProductTrand.Name}"/>
+                        <GridViewColumn Header="מחיר" Width="auto" DisplayMemberBinding="{Binding Product.Price}"/>
+
+                    </GridView>
+                </ListView.View>
+            </ListView>
+        </StackPanel>
+
+    </Grid>
+</Page>

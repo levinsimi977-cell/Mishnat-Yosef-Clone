@@ -1,0 +1,66 @@
+﻿<Page x:Class="MishnatYosef.GUI.OrderProductC"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:MishnatYosef.GUI"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="OrderProductC">
+    <Page.Resources>
+        <DataTemplate x:Key="dt">
+    
+                <WrapPanel >
+                <TextBlock  Text="{Binding Product.NameProduct}" Margin="4"></TextBlock>
+                <TextBlock Text="כמות:" Margin="4">></TextBlock>
+                <TextBlock Text="{Binding Amount}" Margin="4"></TextBlock>
+                <TextBlock Text="מחיר:" Margin="4">></TextBlock>
+                <TextBlock Text="{Binding Product.Price}" Margin="4"></TextBlock>
+                <Button Content="הסר מהרשימה" x:Name="btnDel" Click="btnDel_Click" Margin="4"></Button>
+            </WrapPanel>
+        
+        </DataTemplate>
+    </Page.Resources>
+    
+        <Grid Background="White">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1.7*" />
+            <ColumnDefinition Width="4*"/>
+            <ColumnDefinition Width="0.5*"/>
+        </Grid.ColumnDefinitions>
+       
+        <StackPanel Grid.Column="0" Visibility="Visible">
+            <TextBlock Text="עגלת הקניות" FontSize="16" Foreground="#FFFB7E43"  HorizontalAlignment="Center"></TextBlock>
+            <ListBox x:Name="lb1" FlowDirection="RightToLeft" ItemTemplate="{StaticResource dt}">
+            </ListBox>
+        </StackPanel>
+       
+        <StackPanel FlowDirection="RightToLeft" Grid.Column="2">
+            <TextBlock FontSize="16" Foreground="#FFFB7E43"  Text="קטגוריות" Margin="0,12,0,0"  Height="30" Width="80" HorizontalAlignment="Center"></TextBlock>
+            <ComboBox FontSize="16" Height="30" Width="80"  x:Name="cmbK" DisplayMemberPath="Name" SelectedItem="{Binding Category}" SelectionChanged="cmbK_SelectionChanged" HorizontalAlignment="Center"></ComboBox>
+            <TextBlock FontSize="16" Foreground="#FFFB7E43"  Text="מותגים" Margin="0,0,0,0"  Height="30" Width="80" HorizontalAlignment="Center"></TextBlock>
+            <ComboBox FontSize="16" x:Name="cmbM" Height="30" Width="80" DisplayMemberPath="Name" SelectedItem="{Binding ProductTrand}" SelectionChanged="cmbM_SelectionChanged" HorizontalAlignment="Center"></ComboBox>
+            <Button FontSize="16" Foreground="#FFFB7E43" Content="כלל המוצרים" Height="30" Name="all" Width="80" Margin="0,12,0,0" Click="all_Click"></Button>
+        </StackPanel>
+        <Grid Grid.Column="1">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="5*"/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <ScrollViewer Grid.Row="0">
+                <WrapPanel Grid.Row="0" x:Name="wrp" FlowDirection="RightToLeft"></WrapPanel>
+            </ScrollViewer>
+
+           
+            <StackPanel Grid.Row="1">
+            <WrapPanel >
+                    <Button x:Name="lett" FontSize="16" Foreground="Black" Margin="0,0,12,0" Background="#FF7EEB77" Content="לאישור רכישה" Click="lett_Click" ></Button>
+                    <Button x:Name="see" FontSize="16" Foreground="Black"  Background="#FF7EEB77"  Content="לצפיה בעגלה" Click="see_Click" ></Button>
+                </WrapPanel>
+                
+            </StackPanel>
+        
+    </Grid>
+    </Grid>
+   
+</Page>

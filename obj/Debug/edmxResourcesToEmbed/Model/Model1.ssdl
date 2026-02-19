@@ -1,0 +1,290 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="MishnatYosefModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Booking">
+    <Key>
+      <PropertyRef Name="Code" />
+    </Key>
+    <Property Name="Code" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="CodeSale" Type="int" Nullable="false" />
+    <Property Name="CodeClient" Type="int" Nullable="false" />
+    <Property Name="FinalAmount" Type="float" Nullable="false" />
+    <Property Name="PaymentNumber" Type="nchar" MaxLength="10" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Branch">
+    <Key>
+      <PropertyRef Name="Code" />
+    </Key>
+    <Property Name="Code" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Address" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="NumHouse" Type="int" Nullable="false" />
+    <Property Name="City" Type="int" Nullable="false" />
+    <Property Name="FromHour" Type="int" Nullable="false" />
+    <Property Name="StillHour" Type="int" Nullable="false" />
+    <Property Name="ManegerPhone" Type="nvarchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Category">
+    <Key>
+      <PropertyRef Name="Code" />
+    </Key>
+    <Property Name="Code" Type="int" Nullable="false" />
+    <Property Name="Name" Type="nvarchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="City">
+    <Key>
+      <PropertyRef Name="Code" />
+    </Key>
+    <Property Name="Code" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="nvarchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Client">
+    <Key>
+      <PropertyRef Name="ClientId" />
+    </Key>
+    <Property Name="ClientId" Type="int" Nullable="false" />
+    <Property Name="FName" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="LName" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Phone" Type="nvarchar" MaxLength="10" Nullable="false" />
+    <Property Name="City" Type="int" Nullable="false" />
+    <Property Name="CodeBranch" Type="int" Nullable="false" />
+    <Property Name="Adrees" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="NumHouse" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="SumAcquittal" Type="float" Nullable="false" />
+    <Property Name="NumCreditCard" Type="int" Nullable="false" />
+    <Property Name="3 Numbers" Type="int" Nullable="false" />
+    <Property Name="Force" Type="nvarchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Product">
+    <Key>
+      <PropertyRef Name="Code" />
+    </Key>
+    <Property Name="Code" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="NameProduct" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="CodeTrand" Type="int" Nullable="false" />
+    <Property Name="CodeCategory" Type="int" Nullable="false" />
+    <Property Name="Picture" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Price" Type="float" Nullable="false" />
+  </EntityType>
+  <EntityType Name="ProductInBooking">
+    <Key>
+      <PropertyRef Name="Code" />
+    </Key>
+    <Property Name="Code" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="CodeBooking" Type="int" Nullable="false" />
+    <Property Name="CodeProductInSale" Type="int" Nullable="false" />
+    <Property Name="Amount" Type="int" Nullable="false" />
+    <Property Name=" Betaken?" Type="bit" Nullable="false" />
+  </EntityType>
+  <EntityType Name="ProductInSale">
+    <Key>
+      <PropertyRef Name="Code" />
+    </Key>
+    <Property Name="Code" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="CodeProduct" Type="int" Nullable="false" />
+    <Property Name="CodeSale" Type="int" Nullable="false" />
+    <Property Name="AmountInStoke" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="ProductTrand">
+    <Key>
+      <PropertyRef Name="Code" />
+    </Key>
+    <Property Name="Code" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="nvarchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Sale">
+    <Key>
+      <PropertyRef Name="Code" />
+    </Key>
+    <Property Name="Code" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="NameSale" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Note" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="DateSale" Type="datetime" Nullable="false" />
+  </EntityType>
+  <Association Name="FK_Booking_ToClient">
+    <End Role="Client" Type="Self.Client" Multiplicity="1" />
+    <End Role="Booking" Type="Self.Booking" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Client">
+        <PropertyRef Name="ClientId" />
+      </Principal>
+      <Dependent Role="Booking">
+        <PropertyRef Name="CodeClient" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Booking_ToSale">
+    <End Role="Sale" Type="Self.Sale" Multiplicity="1" />
+    <End Role="Booking" Type="Self.Booking" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Sale">
+        <PropertyRef Name="Code" />
+      </Principal>
+      <Dependent Role="Booking">
+        <PropertyRef Name="CodeSale" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Branch_ToCity">
+    <End Role="City" Type="Self.City" Multiplicity="1" />
+    <End Role="Branch" Type="Self.Branch" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="City">
+        <PropertyRef Name="Code" />
+      </Principal>
+      <Dependent Role="Branch">
+        <PropertyRef Name="City" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Client_ToBranch">
+    <End Role="Branch" Type="Self.Branch" Multiplicity="1" />
+    <End Role="Client" Type="Self.Client" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Branch">
+        <PropertyRef Name="Code" />
+      </Principal>
+      <Dependent Role="Client">
+        <PropertyRef Name="CodeBranch" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Client_ToCity">
+    <End Role="City" Type="Self.City" Multiplicity="1" />
+    <End Role="Client" Type="Self.Client" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="City">
+        <PropertyRef Name="Code" />
+      </Principal>
+      <Dependent Role="Client">
+        <PropertyRef Name="City" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Product_ToCategogy">
+    <End Role="Category" Type="Self.Category" Multiplicity="1" />
+    <End Role="Product" Type="Self.Product" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Category">
+        <PropertyRef Name="Code" />
+      </Principal>
+      <Dependent Role="Product">
+        <PropertyRef Name="CodeCategory" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Product_ToProductTrand">
+    <End Role="ProductTrand" Type="Self.ProductTrand" Multiplicity="1" />
+    <End Role="Product" Type="Self.Product" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ProductTrand">
+        <PropertyRef Name="Code" />
+      </Principal>
+      <Dependent Role="Product">
+        <PropertyRef Name="CodeTrand" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ProductInBooking_ToBooking">
+    <End Role="Booking" Type="Self.Booking" Multiplicity="1" />
+    <End Role="ProductInBooking" Type="Self.ProductInBooking" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Booking">
+        <PropertyRef Name="Code" />
+      </Principal>
+      <Dependent Role="ProductInBooking">
+        <PropertyRef Name="CodeBooking" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ProductInBooking_ToProduct">
+    <End Role="Product" Type="Self.Product" Multiplicity="1" />
+    <End Role="ProductInBooking" Type="Self.ProductInBooking" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Product">
+        <PropertyRef Name="Code" />
+      </Principal>
+      <Dependent Role="ProductInBooking">
+        <PropertyRef Name="CodeProductInSale" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ProductInSale_ToProduct">
+    <End Role="Product" Type="Self.Product" Multiplicity="1" />
+    <End Role="ProductInSale" Type="Self.ProductInSale" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Product">
+        <PropertyRef Name="Code" />
+      </Principal>
+      <Dependent Role="ProductInSale">
+        <PropertyRef Name="CodeProduct" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ProductInSale_ToSale">
+    <End Role="Sale" Type="Self.Sale" Multiplicity="1" />
+    <End Role="ProductInSale" Type="Self.ProductInSale" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Sale">
+        <PropertyRef Name="Code" />
+      </Principal>
+      <Dependent Role="ProductInSale">
+        <PropertyRef Name="CodeSale" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="MishnatYosefModelStoreContainer">
+    <EntitySet Name="Booking" EntityType="Self.Booking" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Branch" EntityType="Self.Branch" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Category" EntityType="Self.Category" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="City" EntityType="Self.City" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Client" EntityType="Self.Client" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Product" EntityType="Self.Product" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="ProductInBooking" EntityType="Self.ProductInBooking" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="ProductInSale" EntityType="Self.ProductInSale" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="ProductTrand" EntityType="Self.ProductTrand" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Sale" EntityType="Self.Sale" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_Booking_ToClient" Association="Self.FK_Booking_ToClient">
+      <End Role="Client" EntitySet="Client" />
+      <End Role="Booking" EntitySet="Booking" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Booking_ToSale" Association="Self.FK_Booking_ToSale">
+      <End Role="Sale" EntitySet="Sale" />
+      <End Role="Booking" EntitySet="Booking" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Branch_ToCity" Association="Self.FK_Branch_ToCity">
+      <End Role="City" EntitySet="City" />
+      <End Role="Branch" EntitySet="Branch" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Client_ToBranch" Association="Self.FK_Client_ToBranch">
+      <End Role="Branch" EntitySet="Branch" />
+      <End Role="Client" EntitySet="Client" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Client_ToCity" Association="Self.FK_Client_ToCity">
+      <End Role="City" EntitySet="City" />
+      <End Role="Client" EntitySet="Client" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Product_ToCategogy" Association="Self.FK_Product_ToCategogy">
+      <End Role="Category" EntitySet="Category" />
+      <End Role="Product" EntitySet="Product" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Product_ToProductTrand" Association="Self.FK_Product_ToProductTrand">
+      <End Role="ProductTrand" EntitySet="ProductTrand" />
+      <End Role="Product" EntitySet="Product" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ProductInBooking_ToBooking" Association="Self.FK_ProductInBooking_ToBooking">
+      <End Role="Booking" EntitySet="Booking" />
+      <End Role="ProductInBooking" EntitySet="ProductInBooking" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ProductInBooking_ToProduct" Association="Self.FK_ProductInBooking_ToProduct">
+      <End Role="Product" EntitySet="Product" />
+      <End Role="ProductInBooking" EntitySet="ProductInBooking" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ProductInSale_ToProduct" Association="Self.FK_ProductInSale_ToProduct">
+      <End Role="Product" EntitySet="Product" />
+      <End Role="ProductInSale" EntitySet="ProductInSale" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ProductInSale_ToSale" Association="Self.FK_ProductInSale_ToSale">
+      <End Role="Sale" EntitySet="Sale" />
+      <End Role="ProductInSale" EntitySet="ProductInSale" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

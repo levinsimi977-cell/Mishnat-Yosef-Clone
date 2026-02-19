@@ -1,0 +1,32 @@
+﻿<Page x:Class="MishnatYosef.GUI.MorePrToThisSale"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:MishnatYosef.GUI"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="MorePrToThisSale">
+    <Page.Resources>
+        <ResourceDictionary Source="Dictionary1.xaml"></ResourceDictionary>
+    </Page.Resources>
+    <Grid Background="White">
+        <StackPanel>
+          <TextBlock Text="הוספת מוצרים לרשימה השבועית" Style="{StaticResource txt2}" HorizontalAlignment="Center" FontWeight="Normal"></TextBlock>
+            <TextBlock Text="רשימת המוצרים שקימים בשבוע זה" Style="{StaticResource txt3}"></TextBlock>
+            <ListView x:Name="lstvP" FlowDirection="RightToLeft"  Style="{StaticResource lv2}" Height="auto" Width="auto">
+                <ListView.View>
+                    <GridView>
+                        <GridViewColumn Header="שם מוצר" DisplayMemberBinding="{Binding Product.NameProduct}"></GridViewColumn>
+                        <GridViewColumn Header="קטגוריה" DisplayMemberBinding="{Binding Product.Category.Name}"></GridViewColumn>
+                        <GridViewColumn Header="מותג" DisplayMemberBinding="{Binding Product.ProductTrand.Name}"></GridViewColumn>
+                        <GridViewColumn Header="מחיר" DisplayMemberBinding="{Binding Product.Price}"></GridViewColumn>
+                        <!--<GridViewColumn Header="כמות" DisplayMemberBinding="{Binding AmountInStoke}"></GridViewColumn>-->
+
+                    </GridView>
+                </ListView.View>
+            </ListView>
+            <Button x:Name="add" Content="להוספת מוצר" Click="add_Click" Style="{StaticResource b3}" Height="29" Width="121"></Button>
+        </StackPanel>
+    </Grid>
+</Page>
